@@ -1,0 +1,2065 @@
+--startset--
+Angelic Raiment
+Partial Set Bonus
++10 Dexterity (2 Items)
++50 Mana (3 Items)
+
+Complete Set Bonus
+Half Freeze Duration
+All Resistances +25
+40% Better Chance of Getting Magic Item
+Regenerate Mana +8%
++10 Dexterity
++50 Mana
+--startitem--
+Set,Angelic Mantle,Ring Mail
+Defense: 68 (Base Defense: 45-48)
+Defense: 218 (Base Defense: 45-48)
+Required Level: 12
+Required Strength: 36
+Durability: 26
++40% Enhanced Defense
+Damage Reduced by 3
++150 Defense (2 Set Items)
+Fire Resist +50% (3 Set Items)
+--enditem--
+--startitem--
+Set,Angelic Sickle,Sabre
+One-Hand Damage: 3 to 8 (5.5 Avg)
+One-Hand Damage: 5 to 14 (9.5 Avg)
+Required Level: 12
+Required Strength: 25
+Required Dexterity: 25
+Durability: 32
+Base Weapon Speed: [-10]
++250% Damage to Undead
++75 To Attack Rating
++75% Enhanced Damage (2 Set Items)
+30% Increased Attack Speed (3 Set Items)
+--enditem--
+--startitem--
+Set,Angelic Halo,Ring
+Required Level: 12
+Replenish Life +6
++20 To Life
++ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level) (2 Set Items)
++50% Better Chance Of Getting Magic Items (3 Set Items)
+--enditem--
+--startitem--
+Set,Angelic Wings,Amulet
+Required Level: 12
+20% Damage Taken Goes to Mana
++3 To Light Radius
++75 Life (2 Set Items)
++1 To All Skills (3 Set Items)
+--enditem--
+--endset--
+
+--startset--
+Arcanna's Tricks
+Partial Set Bonus
++25 To Mana (2 Items)
++50 To Life (3 Items)
+
+Complete Set Bonus
++50 To Mana
++50 To Life
+20% Faster Cast Rate
+5% Mana Stolen Per Hit
+--startitem--
+Set,Arcanna's Head,Skull Cap
+Defense: 8-11 (varies)
+Defense: (11-305) - (14-308) (varies)(Base Defense: 8-11)
+Required Level: 15
+Required Strength: 15
+Durability: 18
+Replenish Life +4
+Attacker Takes Damage of 2
++ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)
+Lightning Resist +15% (3 Set Items)
+--enditem--
+--startitem--
+Set,Arcanna's Flesh,Light Plate
+Defense: 90-107 (varies)
+Defense: 190-207 (varies)(Base Defense: 90-107)
+Required Level: 15
+Required Strength: 41
+Durability: 60
++2 To Light Radius
+Damage Reduced By 3
++100 Defense (2 Set Items)
++10 Energy (3 Set Items)
+--enditem--
+--startitem--
+Set,Arcanna's Deathwand,War Staff
+Two-Hand Damage: 12-28 (20 Avg)
+Required Level: 15
+Durability: 50
+Base Weapon Speed: [20]
++1 to Sorceress Skill Levels
+25% Deadly Strike
++50% Damage To Undead
++50 Mana (2 Set Items)
+Regenerate Mana +5% (3 Set Items)
+--enditem--
+--startitem--
+Set,Arcanna's Sign,Amulet
+Required Level: 15
+Regenerate Mana 20%
++15 to Mana
++50% Better Chance To Find Magic Items (2 Set Items)
+Fire Resist +20% (3 Set Items)
+--enditem--
+--endset--
+
+--startset--
+Arctic Gear
+Partial Set Bonus
++5 To Strength (2 Items)
++50 To Life (3 Items)
+
+Complete Set Bonus
++5 To Strength
++50 To Life
+Cannot Be Frozen
+Adds 6-14 Cold Damage
+Cold Duration: 4 seconds
+--startitem--
+Set,Arctic Furs,Quilted Armor
+Defense: 45 - 51 (varies)(Base Defense 8-11)
+Defense: (48-342) - (54-348) (varies)(Base Defense 8-11)
+Required Level: 2
+Required Strength: 12
+Durability: 20
++275-325% Enhanced Defense (varies)
+All Resistances +10
++ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)
+Cold Resist +15% (3 Set Items)
+--enditem--
+--startitem--
+Set,Arctic Binding,Light Belt
+Defense: 33 (Base Defense: 3)
+Required Level: 2
+Durability: 14
+Cold Resist +40%
++30 Defense
++40% Better Chance Of Getting Magic Items (2 Set Items)
+Cold Resist +10% (3 Set Items)
+--enditem--
+--startitem--
+Set,Arctic Mitts,Light Gauntlets
+Defense: 9-11 (varies)
+Required Level: 2
+Required Strength: 45
+Durability: 18
++20 To Life
+10% Increased Attack Speed
++50 To Attack Rating (2 Set Items)
++10 To Dexterity (3 Set Items)
+--enditem--
+--startitem--
+Set,Arctic Horn,Short War Bow
+Two-Hand Damage: 9 to 21 (15 avg)
+Required Level: 2
+Required Strength: 35
+Required Dexterity: 55
+Base Weapon Speed: [0]
++50% Enhanced Damage
+20% Bonus To Attack Rating
++ (8 Per Character Level) 8-792 Attack Rating (Based On Character Level) (2 Set Items)
++20-30 Cold Damage, 3 sec. Duration (Normal) (3 Set Items)
+--enditem--
+--endset--
+
+--startset--
+Berserker's Arsenal
+Partial Set Bonus
++50 To Life (2 Items)
+
+Complete Set Bonus
++50 To Life
++75 Defense
+Poison Length Reduced by 75%
+Adds 5-9 Poison Damage over 3 Seconds
+--startitem--
+Set,Berserker's Headgear,Helm
+Defense: 30-33 (varies)(Base Defense: 15-18)
+Required Level: 3
+Required Strength: 26
+Durability: 24
++15 Defense
+Fire Resist +25%
++ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level) (2 Set Items)
+--enditem--
+--startitem--
+Set,Berserker's Hauberk,Splint Mail
+Defense: 90-95 (varies)
+Defense: (93-387) - (98-392) (varies)(Base Defense: 90-95)
+Required Level: 3
+Required Strength: 51
+Durability: 30
++1 to Barbarian Skill Levels
+Magic Damage Reduced by 2
++ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)
+--enditem--
+--startitem--
+Set,Berserker's Hatchet,Double Axe
+One-Hand Damage: 5 to 13 (9 Avg)
+One-Hand Damage: 7 to 19 (13 Avg)
+Required Level: 3
+Required Strength: 43
+Durability: 24
+Base Weapon Speed: [10]
+30% Bonus To Attack Rating
+5% Mana Stolen Per Hit
++50% Enhanced Damage (2 Set Items)
+--enditem--
+--endset--
+
+--startset--
+Cathan's Traps
+Partial Set Bonus
++15-20 Fire Damage (2 Items)
+Resist Lightning +25% (3 Items)
+
+Complete Set Bonus
++15-20 Fire Damage
+Resist Lightning +25%
+10% Faster Cast Rate
+Magic Damage Reduced by 3
+All Resistances +25
++60 to Attack Rating
++20 to Mana
+--startitem--
+Set,Cathan's Visage,Mask
+Defense: 9-27 (varies)
+Defense: (11-207) - (29-225) (varies)(Base Defense: 9-27)
+Required Level: 11
+Required Strength: 23
+Durability: 20
+Cold Resist +25%
++20 to Mana
++ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Set Items)
+--enditem--
+--startitem--
+Set,Cathan's Mesh,Chain Mail
+Defense: 87-90 (varies)(Base Defense: 72-75)
+Required Level: 11
+Required Strength: 24
+Durability: 45
++15 Defense
+Requirements -50%
+Attacker Takes Damage of 5 (2 Set Items)
+Resist Fire +30% (3 Set Items)
+--enditem--
+--startitem--
+Set,Cathan's Rule,Battle Staff
+Two-Hand Damage: 6 to 13 (9.5 Avg)
+Required Level: 11
+Durability: 40
+Base Weapon Speed: [0]
++1 to Fire Skills
++10 Maximum Fire Damage
++50% Damage To Undead
++50 Mana (2 Set Items)
+All Resistances +10 (3 Set Items)
+--enditem--
+--startitem--
+Set,Cathan's Sigil,Amulet
+Required Level: 11
+Attacker Takes Lightning Damage of 5
+10% Faster Hit Recovery
++50 To Attack Rating (2 Set Items)
++25% Better Chance of Finding Magic Items (3 Set Items)
+--enditem--
+--startitem--
+Set,Cathan's Seal,Ring
+Required Level: 11
+6% Life Stolen Per Hit
+Damage Reduced by 2
++10 Strength (2 Set Items)
+--enditem--
+--endset--
+
+--startset--
+Civerb's Vestments
+Partial Set Bonus
+Fire Resist +15% (2 Items)
+
+Complete Set Bonus
++200% Damage to Undead
++15 To Strength
+Fire Resist +15%
+Lightning Resist +25%
+--startitem--
+Set,Civerb's Cudgel,Grand Scepter
+One-Hand Damage: 8 to (36-140) (22-74 Avg)
+Required Level: 9
+Required Strength: 37
+Durability: 60
+Base Weapon Speed: [10]
++ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)
++17-23 to Max Damage(varies)
++50% Damage To Undead
++75 to Attack Rating
+--enditem--
+--startitem--
+Set,Civerb's Icon,Amulet
+Required Level: 9
+Replenish Life +4
+Regenerate Mana 40%
+Cold Resist +25% (2 Items)
++25 Defense (Complete Set)
+--enditem--
+--startitem--
+Set,Civerb's Ward,Large Shield
+Defense: 27-29 (varies)(Base Defense: 12-14)
+Required Level: 9
+Required Strength: 34
+Durability: 24
+Chance to Block: Pal: 57%, Ama/Asn/Bar: 52% Dru/Nec/Sor: 47%
+Paladin Smite Damage: 2 to 4
++15 Defense
++15% Increased Block
++21-22 Mana (Civerb's Icon)(varies)
+Poison Resist +25-26% (Civerb's Cudgel)(varies)
+--enditem--
+--endset--
+
+--startset--
+Cleglaw's brace
+Partial Set Bonus
++50 Defense (2 Items)
+
+Complete Set Bonus
++100 Defense
+35% Chance of Crushing Blow
+6% Mana Stolen Per Hit
+20% Increased Attack Speed
+--startitem--
+Set,Cleglaw's Tooth,Long Sword
+One-Hand Damage: 3 to 19 (11 Avg)
+One-Hand Damage: 3 to (20-142) (11.5-72.5 Avg)
+Required Level: 4
+Required Strength: 55
+Required Dexterity: 39
+Durability: 44
+Base Weapon Speed: [-10]
+50% Deadly Strike
+30% Bonus to Attack rating
++ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Cleglaw's Pincers,Chain Gloves
+Defense: 8-9 (varies)
+Required Level: 4
+Required Strength: 25
+Durability: 16
+Slows Target by 25%
+Knockback
++ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Cleglaw's Claw,Small Shield
+Defense: 25-27 (varies)(Base Defense: 8-10)
+Required Level: 4
+Required Strength: 22
+Durability: 16
+Paladin Smite Damage: 2 to 3
+Chance to Block: Pal: 35%, Ama/Asn/Bar: 30% Dru/Nec/Sor: 25%
+Poison Length Reduced by 75%
++17 Defense
+All Resistances +15 (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Death's Disguise
+Partial Set Bonus
++8% Life Steal (2 Items)
+
+Complete Set Bonus
++8% Life Steal
+40% Bonus to Attack Rating
+All Resistances +25
++10 to Minimum Damage
+--startitem--
+Set,Death's Touch,War Sword
+One-Hand Damage: 10 to 25 (17.5 Avg)
+Required Level: 6
+Required Strength: 71
+Required Dexterity: 45
+Durability: 44
+Base Weapon Speed: [0]
++25% Enhanced Damage
+4% Life Stolen Per Hit
+Adds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 Items)
+--enditem--
+--startitem--
+Set,Death's Hand,Leather Gloves
+Defense: 2-3 (varies)
+Required Level: 6
+Durability: 12
+Poison Length Reduced by 75%
+Poison Resist 50%
+30% Increased Attack Speed (2 Items)
+--enditem--
+--startitem--
+Set,Death's Guard,Sash
+Defense: 22 (Base Defense: 2)
+Required Level: 6
+Durability: 12
+8 boxes
+Cannot be Frozen
++20 Defense
+All Resistances +15 (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Hsaru's Defense
+Partial Set Bonus
+Attacker Takes Damage of 5 (2 Items)
+
+Complete Set Bonus
+Attacker Takes Damage of 5
+Cannot be Frozen
+Lightning Resist +25%
++5 to Max Damage
+--startitem--
+Set,Hsarus' Iron Fist,Buckler
+Defense: 4-6 (varies)
+Defense: (6-251) - (8-253) (varies)(Base Defense: 4-6)
+Required Level: 3
+Required Strength: 12
+Durability: 12
+Paladin Smite Damage: 1 to 3
+Chance to Block: Pal: 30%, Ama/Asn/Bar/: 25% Dru/Nec/Sor: 20%
+Damage Reduced by 2
++10 to Strength
++ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Hsarus' Iron Stay,Belt
+Defense: 5
+Defense: 7-252 (Base Defense: 5)
+Required Level: 3
+Required Strength: 25
+Durability: 16
+12 boxes
+Cold Resist +20%
++20 to Life
++ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Hsarus' Iron Heel,Chain Boots
+Defense: 8-9 (varies)
+Required Level: 3
+Required Strength: 30
+Durability: 16
+Assassin Kick Damage: 6-12
+20% Faster Run/Walk
+Fire Resist +25%
++ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Infernal Tools
+Partial Set Bonus
++8 Poison Damage Over 3 Seconds (2 Items)
+
+Complete Set Bonus
++8 Poison Damage Over 3 Seconds
+20% Chance of Open Wounds
++1 to Necromancer Skill Levels
+20% Bonus to Attack Rating
+6% Mana Stolen Per Hit
+--startitem--
+Set,Infernal Cranium,Cap
+Defense: 3-5 (varies)
+Defense: (5-201) - (7-203) (varies)(Base Defense: 3-5)
+Required Level: 5
+Durability: 12
+20% Damage Taken Goes to Mana
+All Resistances +10
++ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Infernal Sign,Heavy Belt
+Defense: 31 (Base Defense: 6)
+Required Level: 5
+Required Strength: 45
+Durability: 18
+12 boxes
++25 Defense
++20 to Life
+Poison Resist +25% (2 Items)
+Half Freeze Duration (3 Items)
+--enditem--
+--startitem--
+Set,Infernal Torch,Grim Wand
+One-Hand Damage: 13 to 14 (13.5 Avg)
+Required Level: 5
+Durability: 15
+Base Weapon Speed: [0]
++1 To Necromancer Skill Levels
++8 to Min Damage
+150% Damage to Undead
++ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Iratha's Finery
+Partial Set Bonus
++50 To Defense (2 Items)
+20% Faster Run/Walk (3 Items)
+
+Complete Set Bonus
++50 To Defense
+20% Faster Run/Walk
++15 To Dexterity
+10% To Maximum Poison Resist
+10% To Maximum Cold Resist
+10% To Maximum Lightning Resist
+10% To Maximum Fire Resist
+All Resistances +20
+--startitem--
+Set,Iratha's Coil,Crown
+Defense: 25-45 (varies)
+Defense: (27-223) - (47-243) (varies)(Base Defense: 25-45)
+Required Level: 15
+Required Strength: 55
+Durability: 50
+Lightning Resist +30%
+Fire Resist +30%
++ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Iratha's Collar,Amulet
+Required Level: 15
+Poison Length Reduced by 75%
+Poison Resist +30%
+All Resistances +15 (2 Items)
+--enditem--
+--startitem--
+Set,Iratha's Cord,Heavy Belt
+Defense: 31 (Base Defense: 6)
+Required Level: 15
+Required Strength: 45
+Durability: 18
+12 boxes
++25 Defense
++5 To Minimum Damage
++10 To Dexterity (2 Items)
+--enditem--
+--startitem--
+Set,Iratha's Cuff,Light Gauntlets
+Defense: 9-11 (varies)
+Required Level: 15
+Required Strength: 45
+Durability: 18
+Half Freeze Duration
+Cold Resist +30%
+20% Increased Attack Speed (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Isenhart's Armory
+Partial Set Bonus
++10 To Strength (2 Items)
++10 To Dexterity (3 Items)
+
+Complete Set Bonus
++10 To Strength
++10 To Dexterity
+20% Faster Run/Walk
++30% Increased Chance of Blocking
+35% Bonus to Attack Rating
+5% Life Stolen Per Hit
+All Resistances +10
+--startitem--
+Set,Isenhart's Lightbrand,Broad Sword
+One-Hand Damage: 17 to 18 (17.5 Avg)
+Required Level: 8
+Required Strength: 48
+Durability: 32
+Base Weapon Speed: [0]
++10 to Min Damage
+20% Increased Attack Speed
++ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Isenhart's Horns,Full Helm
+Defense: 23-26 (varies)
+Required Level: 8
+Required Strength: 41
+Durability: 30
+Damage Reduced by 2
++6 to Dexterity
+All Resistances +8 (2 Items)
+--enditem--
+--startitem--
+Set,Isenhart's Case,Breast Plate
+Defense: 105-108 (varies)(Base Defense: 65-68)
+Defense: (107-303) - (110-306) (varies)(Base Defense: 65-68)
+Required Level: 8
+Required Strength: 30
+Durability: 50
+Magic Damage Reduced by 2
++40 Defense
++ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Isenhart's Parry,Gothic Shield
+Defense: 70-75 (Base Defense: 30-35)
+Chance to Block: Pal: 46%, Ama/Asn/Bar: 41% Dru/Nec/Sor: 36%
+Paladin Smite Damage: 2 to 6
+Required Level: 8
+Required Strength: 60
+Durability: 40
+Attacker Takes Lightning Damage of 4
++40 Defense
+All Resistances +8 (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Milabrega's Regalia
+Partial Set Bonus
++75 To Attack Rating (2 Items)
++125 To Attack Rating (3 Items)
+
+Complete Set Bonus
++200 To Attack Rating
++2 to Paladin Skill Levels
+8% Life Stolen Per Hit
+10% Mana Stolen Per Hit
+Poison Resist +15%
+--startitem--
+Set,Milabrega's Diadem,Crown
+Defense: 25-45 (varies)
+Required Level: 17
+Required Strength: 55
+Durability: 50
++15 to Mana
++15 to Life
+Cold Resist +40% (2 Items)
+--enditem--
+--startitem--
+Set,Milabrega's Robe,Ancient Armor
+Defense: 234 (Base Defense: 218-233)
+Defense: 468 (Base Defense: 218-233)
+Required Level: 17
+Required Strength: 100
+Durability: 60
+Damage Reduced by 2
+Attacker Takes Damage of 3
++100% Enhanced Defense (2 Items)
+--enditem--
+--startitem--
+Set,Milabrega's Orb,Kite Shield
+Defense: 44 (Base Defense: 16-18)
+Defense: 53 (Base Defense: 16-18)
+Chance to Block: Pal: 38%, Ama/Asn/Bar: 33% Dru/Nec/Sor: 28%
+Paladin Smite Damage: 2 to 5
+Required Level: 17
+Required Strength: 47
+Durability: 30
++25 Defense
+20% Better Chance of Getting Magic Item
++50 Life (2 Items)
++50% Enhanced Defense (3 Items)
+--enditem--
+--startitem--
+Set,Milabrega's Rod,War Scepter
+One-Hand Damage: 15 To 25 (20 Avg)
+Required Level: 17
+Required Strength: 55
+Durability: 70
+Base Weapon Speed: [-10]
++50% Enhanced Damage
++50% Damage to Undead
++1 to Paladin Skills
++2 to Light Radius
+--enditem--
+--endset--
+
+--startset--
+Sigon's Complete Steel
+Partial Set Bonus
++10% Life Stolen Per Hit (2 Items)
++100 Defense (3 Items)
+
+Complete Set Bonus
++10% Life Stolen Per Hit
++100 Defense
++20 To Mana
+Fire Resist +12%
++24 To Max Fire Damage
+Attacker Takes Damage of 12
+Damage Reduced By 7
+--startitem--
+Set,Sigon's Visor,Great Helm
+Defense: 55-60 (varies)(Base Defense: 30-35)
+Required Level: 6
+Required Strength: 63
+Durability: 40
++25 Defense
++30 to Mana
++ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Sigon's Shelter,Gothic Plate
+Defense: 170 (Base Defense: 128 To 135)
+Required Level: 6
+Required Strength: 70
+Durability: 55
++25% Enhanced Defense
+Lightning Resist +30%
+Attacker Takes Damage of 20 (2 Items)
+--enditem--
+--startitem--
+Set,Sigon's Sabot,Greaves
+Defense: 12-15 (varies)
+Required Level: 6
+Required Strength: 70
+Durability: 24
+Assassin Kick Damage: 10-20
+20% Faster Run/Walk
+Cold Resist +40%
++50 To Attack Rating (2 Items)
++50% Better Chance To Find Magic Items (3 Items)
+--enditem--
+--startitem--
+Set,Sigon's Guard,Tower Shield
+Defense: 22-25 (varies)
+Chance to Block: Pal: 74%, Ama/Asn/Bar: 69% Dru/Nec/Sor: 64%
+Paladin Smite Damage: 1 to 5
+Required Level: 6
+Required Strength: 75
+Durability: 60
++1 to All Skills
++20% Increased Chance To Block
+--enditem--
+--startitem--
+Set,Sigon's Wrap,Plated Belt
+Defense: 8-11 (varies)
+Defense: (10-206) - (13-209) (varies)(Base Defense: 8-11)
+Required Level: 6
+Required Strength: 60
+Durability: 24
+16 boxes
+Fire Resist +20%
++20 to Life
++ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Sigon's Gage,Gauntlets
+Defense: 12-15 (varies)
+Required Level: 6
+Required Strength: 60
+Durability: 24
++20 to Attack Rating
++10 to Strength
+30% Increased Attack Speed (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Tancred's Battlegear
+Partial Set Bonus
++15 Lightning Damage (2 Items)
++5% Life Stolen Per Hit (3 Items)
+
+Complete Set Bonus
++15 Lightning Damage
++5% Life Stolen Per Hit
+Slows Targets by 35%
+5% Mana Stolen Per Hit
+All Resistances +10
+75% Extra Gold From Monsters
+--startitem--
+Set,Tancred's Skull,Bone Helm
+Defense: 33-36 (varies)
+Required Level: 20
+Required Strength: 25
+Durability: 40
++10% Enhanced Damage
++40 to Attack Rating
+All Resistances +10 (2 Items)
+--enditem--
+--startitem--
+Set,Tancred's Spine,Full Plate Mail
+Defense: 150-161 (varies)
+Defense: (152-348) - (163-359) (varies) (Base Defense: 150-161)
+Required Level: 20
+Required Strength: 80
+Durability: 70
++40 to Life
++15 to Strength
++ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Tancred's Hobnails,Boots
+Defense: 2-3 (varies)
+Required Level: 20
+Durability: 12
+Assassin Kick Damage: 3-8
+Heal Stamina Plus 25%
++10 to Dexterity
+30% Faster Run/Walk (2 Items)
++10 To Strength (3 Items)
+--enditem--
+--startitem--
+Set,Tancred's Crowbill,Military Pick
+One-Hand Damage: 12 to 19 (15.5 Avg)
+Required Level: 20
+Required Strength: 49
+Required Dexterity: 33
+Durability 26
+Base Weapon Speed: [-10]
++80% Enhanced Damage
++75 to Attack Rating
++20 To Mana (2 Items)
+20% Increased Attack Speed (3 Items)
+--enditem--
+--startitem--
+Set,Tancred's Weird,Amulet
+Required Level: 20
+Damage Reduced by 2
+Magic Damage Reduced by 1
++78% Better Chance Of Getting Magic Items (2 Items)
++60 To Attack Rating (3 Items)
+--enditem--
+--endset--
+
+--startset--
+Vidala's Rig
+Partial Set Bonus
++75 To Attack Rating (2 Items)
++15 To Dexterity (3 Items)
+
+
+Complete Set Bonus
++75 To Attack Rating
+Adds 15-20 Cold Damage, 2 sec. Duration (Normal)
+Piercing Attack [50]
+Freezes Target
++15 To Dexterity
++10 To Strength
+--startitem--
+Set,Vidala's Barb,Long Battle Bow
+Two-Hand Damage: 3 to 18 (10.5 Avg)
+Required Level: 14
+Required Strength: 40
+Required Dexterity: 50
+Base Weapon Speed: [10]
+Adds 1-20 Lightning Damage
++ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)
+--enditem--
+--startitem--
+Set,Vidala's Ambush,Leather Armor
+Defense: 64-67 (varies) (Base Defense: 14-17)
+Defense: (66-311) - (69-314) (varies) (Base Defense: 14-17)
+Required Level: 14
+Required Strength: 15
+Durability: 24
++50 Defense
++11 to Dexterity
++24% Fire Resist (2 Items)
++ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items)
+--enditem--
+--startitem--
+Set,Vidala's Fetlock,Light Plated Boots
+Defense: 9-11 (varies)
+Required Level: 14
+Required Strength: 50
+Durability: 18
+Assassin Kick Damage: 8-16
+30% Faster Run/Walk
++150 to Maximum Stamina
+All Resistances +8 (2 Items)
+--enditem--
+--startitem--
+Set,Vidala's Snare,Amulet
+Required Level: 14
+Cold Resist 20%
++15 To Life
+50% Better Chance Of Getting Magic Items (2 Items)
+--enditem--
+--endset--
+
+--startset--
+Aldur's Watchtower
+Partial Set Bonus
+150% Bonus To Attack Rating (2 Items)
+50% Better Chance Of Getting Magic Items (3 Items)
+
+
+Complete Set Bonus
++3 To Druid Skills
++350% Enhanced Damage*
+150% Bonus To Attack Rating
+50% Better Chance Of Getting Magic Items
+10% Mana Stolen Per Hit
+All Resistances +50
++150 Defense
++150 To Mana
+Display Aura
+--startitem--
+Set,Aldur's Stony Gaze,Hunter's Guise
+Defense: 157-171 (varies) (Base Defense: 67-81)
+Required Level: 36
+Required Strength: 56
+Durability: 20
+(Druid Only)
++90 Defense
+25% Faster Hit Recovery
+Regenerate Mana 17%
+Cold Resist +40-50% (varies)
+Socketed (2)
++5 To Light Radius
++15 To Energy (2 Item)
++15 To Energy (3 Items)
++15 To Energy (Completed Set)
+--enditem--
+--startitem--
+Set,Aldur's Advance,Battle Boots
+Defense: 39-47 (varies)
+Required Level: 45
+Required Strength: 95
+Assassin Kick Damage: 37-64
+Indestructible
+40% Faster Run/Walk
++180 Maximum Stamina
+10% Damage Taken Goes To Mana
+Heal Stamina Plus +32%
++50 To Life
+Fire Resist +40-50% (varies)
++15 To Dexterity (2 Item)
++15 To Dexterity (3 Items)
++15 To Dexterity (Completed Set)
+--enditem--
+--startitem--
+Set,Aldur's Deception,Shadow Plate
+Defense: 746-857 (varies)(Base Defense: 446-557)
+Required Level: 76
+Required Strength: 115
+Durability: 70
++300 Defense
+Requirements -50%
+Lightning Resist +40-50% (varies)
++15 To Dexterity
++20 To Strength
++1 To Elemental Skills (Druid Only)
++1 To Shape Shifting Skills (Druid Only)
++15 To Vitality (2 Item)
++15 To Vitality (3 Items)
++15 To Vitality (Completed Set)
+--enditem--
+--startitem--
+Set,Aldur's Rhythm,Jagged Star
+One-Hand Damage: 60 To 93 (76.5 Avg)
+Required Level: 42
+Required Strength: 74
+Durability: 72
+Base Weapon Speed: [10]
++200% Damage To Demons
++50% Damage To Undead
+Adds 40-62 Damage
+Adds 50-75 Lightning Damage
+30% Increased Attack Speed
+10% Life Stolen Per Hit
+5% Mana Stolen Per Hit
+Socketed (2-3) (varies)*
++15 To Strength (2 Item)
++15 To Strength (3 Items)
++15 To Strength (Completed Set)
+--enditem--
+--endset--
+
+--startset--
+Bul-Kathos' Children
+Complete Set Bonus
++2 To All Skill Levels
++200 To Attack Rating
++200% Damage To Demons
++200% Damage To Undead
++20 Fire Damage
++25 Defense
+--startitem--
+Set,Bul-Kathos' Sacred Charge,Colossus Blade
+One Handed Damage: 75 To 195 (135 Avg)
+Two Handed Damage: 174 To 345 (259.5 Avg)
+Required Level: 63
+Required Strength: 189
+Required Dexterity: 110
+Durability: 50
+Base Weapon Speed: [5]
++200% Enhanced Damage
+35% Chance of Crushing Blow
+All Resistances +20
++20% Increased Attack Speed
+Knockback
+--enditem--
+--startitem--
+Set,Bul-Kathos' Tribal Guardian,Mythical Sword
+One Handed Damage: 120 To 150 (135 Avg)
+Required Level: 66
+Required Strength: 147
+Required Dexterity: 124
+Durability: 44
+Base Weapon Speed: [0]
++200% Enhanced Damage
++50 Poison Damage Over 2 Seconds
+Fire Resist +50%
++20 To Strength
++20% Increased Attack Speed
+--enditem--
+--endset--
+
+--startset--
+Cow King's Leathers
+Partial Set Bonus
+Poison Resist +25% (2 items)
+
+
+Complete Set Bonus
+Poison Resist +25%
+25% Chance To Cast Level 5 Static Field When Struck
++100 Maximum Stamina
++20 To Strength
++30% Increased Attack Speed
+100% Better Chance Of Getting Magic Items
+100% Extra Gold From Monsters
+--startitem--
+Set,Cow King's Horns,War Hat
+Defense : 120-128 (varies)(Base Defense: 45-53)
+Required Level: 25
+Required Strength: 20
+Durability: 12
++75 Defense
+Half Freeze Duration
+Attacker Takes Damage of 10
+35% Damage Taken Goes To Mana
+--enditem--
+--startitem--
+Set,Cow King's Hide,Studded Leather
+Defense: 57 (Base Defense: 32-35)
+Required Level: 18
+Required Strength: 27
+Durability: 32
++60% Enhanced Defense
+18% Chance To Cast Level 5 Chain Lightning When Struck
+All Resistances +18
++30 To Life
+--enditem--
+--startitem--
+Set,Cow King's Hooves,Heavy Boots
+Defense: 30-41 (varies)(Base Defense: 5-6)
+Required Level: 13
+Required Strength: 18
+Durability: 14
+Assassin Kick Damage: 4-10
++25-35 Defense (varies)
++30% Faster Run/Walk
+Adds 25-35 Fire Damage
++20 To Dexterity
+25% Better Chance of Getting Magic Items
+--enditem--
+--endset--
+
+--startset--
+The Disciple
+Partial Set Bonus
++150 Defense (2 Items)
++22 Poison Damage Over 3 Seconds (3 Items)*
++10 To Strength (4 Items)
+
+
+Complete Set Bonus
++150 Defense
++22 Poison Damage Over 3 Seconds*
++10 To Strength
++2 To All Skills
+All Resistances +50
++100 Mana
+--startitem--
+Set,Telling of Beads,Amulet
+Required Level: 30
++1 To All Skills
+Poison Resist +35-50% (varies)
+Cold Resist +18%
+Attacker Takes Damage of 8-10 (varies)
+--enditem--
+--startitem--
+Set,Laying of Hands,Bramble Mitts
+Defense: 79-87 (varies)(Base Defense: 54-62)
+Required Level: 63
+Required Strength: 50
+Durability: 12
++25 Defense
++20% Increased Attack Speed
++350% Damage To Demons
+Fire Resist +50%
+10% Chance To Cast Level 3 Holy Bolt On Striking
+--enditem--
+--startitem--
+Set,Dark Adherent,Dusk Shroud
+Defense: 666-882 (varies)(Base Defense: 361-467)
+Required Level: 49
+Required Strength: 77
+Durability: 20
++305-415 Defense (varies)
+Fire Resist +24%
+25% Chance To Cast Level 3 Nova When Struck
+Adds 24-34 Poison Damage Over 2 Seconds
+--enditem--
+--startitem--
+Set,Rite of Passage,Demonhide Boots
+Defense: 53-60 (varies)(Base Defense: 28-35)
+Required Level: 29
+Required Strength: 20
+Durability: 12
+Assassin Kick Damage: 26-46
++25 Defense
+30% Faster Run/Walk
++15-25 Maximum Stamina (varies)
+Half Freeze Duration
+--enditem--
+--startitem--
+Set,Credendum,Mithril Coil
+Defense: 108-115 (varies)(Base Defense: 58-65)
+Required Level: 65
+Required Strength: 106
+Durability: 16
+16 boxes
++50 Defense
+All Resistances +15
++10 To Dexterity
++10 To Strength
+--enditem--
+--endset--
+
+--startset--
+Griswold's Legacy
+Partial Set Bonus
++20 To Strength (2 Items)
++30 To Dexterity (3 Items)
+
+
+Complete Set Bonus
++3 To Paladin Skill Levels
++30% Faster Hit Recovery
++200 To Attack Rating
++20 To Strength
++30 To Dexterity
++150 To Life
+All Resistances +50
+Display Aura
+--startitem--
+Set,Griswold's Heart,Ornate Plate
+Defense: 917-950 (varies) (Base Defense 417-450)
+Required Level: 45
+Required Strength: 102
+Durability: 60
++500 Defense
+Requirements -40%
++20 To Strength
++2 To Defensive Aura Skills (Paladin Only)
+Socketed (3)
+--enditem--
+--startitem--
+Set,Griswold's Valor,Corona
+Defense: 249-290 (varies) (Base Defense: 111-165)
+Required Level: 69
+Required Strength: 105
+Durability: 50
++50-75% Enhanced Defense (varies)
+All Resistances +5
+20-30% Better Chance Of Getting Magic Items (varies)
+Requirements -40%
++ (0.25 Per Character Level) 0-24 Absorbs Cold Damage (Based On Character Level)
+Socketed (2)
++2 To Offensive Auras (Paladin Only) (2 Items)
+--enditem--
+--startitem--
+Set,Griswold's Redemption,Caduceus
+Damage: (111-125) To (129-146) (120-135.5 Avg)
+Damage: (121-135) To (149-166) (135-150.5 Avg)
+Damage: (131-145) To (169-186) (150-165.5 Avg)
+Required Level: 66
+Required Strength: 78
+Required Dexterity: 56
+Durability: 70
+Base Weapon Speed: [-10]
++200-240% Enhanced Damage (varies)
++250% Damage To Undead
+Requirements -20%
+40% Increased Attack Speed
+Socketed (3-4) (varies)
++2 To Combat Skills (Paladin Only) (2 Items)
+Adds 10-20 Damage (3 Items)
+Adds 10-20 Damage (Complete Set)
+--enditem--
+--startitem--
+Set,Griswold's Honor,Vortex Shield
+Defense: 290-333 (varies)(Base Defense: 182-225)
+Required Level: 68
+Required Strength: 148
+Durability: 90
+Chance to Block: 69%
+Paladin Smite Damage: 5 To 87
+(Paladin Only)
+65% Faster Block Rate
+20% Increased Chance of Blocking
++108 Defense
+All Resistances +45
+Socketed (3)
+--enditem--
+--endset--
+
+--startset--
+Heaven's Brethren
+Partial Set Bonus
+Heal Stamina Plus 50% (2 Items)
+Replenish Life +20 (3 Items)
+
+
+Complete Set Bonus
++2 To All Skills
+Replenish Life +20
+Heal Stamina Plus 50%
+All Resistances +50
+Cannot Be Frozen
++5 To Light Radius
+--startitem--
+Set,Haemosu's Adamant,Cuirass
+Defense: 688-702 (varies)(Base Defense: 188-202)
+Required Level: 44
+Required Strength: 52
+Durability: 50
++500 Defense
++40 Defense Vs. Melee
++35 Defense Vs. Missile
+Requirements -20%
++75 To Life
+--enditem--
+--startitem--
+Set,Dangoon's Teaching,Reinforced Mace
+Damage: 41 To (50-197) (45.5-119 Avg)
+Required Level: 68
+Required Strength: 145
+Required Dexterity: 46
+Durability: 60
+Base Weapon Speed: [0]
++ (1.5 Per Character Level) +1-148 To Maximum Damage (Based on Character Level)
++50% Damage To Undead
++40% Increased Attack Speed
+10% Chance To Cast Level 3 Frost Nova On Striking
+Adds 20-30 Fire Damage
+--enditem--
+--startitem--
+Set,Taebaek's Glory,Ward
+Defense: 203-220 (varies)(Base Defense: 153-170)
+Required Level: 81
+Required Strength: 185
+Chance to Block: Pal: 79% Ama/Asn/Bar: 74% Dru/Nec/Sor: 69%
+Paladin Smite Damage: 11 to 35
++50 Defense
++25% Increased Chance Of Blocking
+Lightning Resist +30%
+Indestructible
+30% Faster Block Rate
++100 To Mana
+Attacker Takes Damage of 30
+--enditem--
+--startitem--
+Set,Ondal's Almighty,Spired Helm
+Defense: 164-209 (varies)(Base Defense: 114-159)
+Required Level: 69
+Required Strength: 116
+Durability: 40
+10% Chance To Cast Level 3 Weaken On Striking
+24% Faster Hit Recovery
+Requirements -40%
++50 Defense
++15 To Dexterity
++10 To Strength
+--enditem--
+--endset--
+
+--startset--
+Hwanin's Majesty
+Partial Set Bonus
++100 Defense (2 Items)
++200 Defense (3 Items)
+
+
+Complete Set Bonus
++2 To All Skills
++30% Faster Run/Walk
+20% Life Stolen Per Hit
++300 Defense
+All Resistances +30
+--startitem--
+Set,Hwanin's Splendor,Grand Crown
+Defense: 228 (varies)(Base Defense: 78-113)
+Required Level: 45
+Required Strength: 103
+Durability: 50
++100% Enhanced Defense
+Replenish Life +20
+Magic Damage Reduced By 10
+Cold Resist +37%
+--enditem--
+--startitem--
+Set,Hwanin's Justice,Bill
+Damage: 42 To 159 (100.5 Avg)
+Required Level: 28
+Required Strength: 95
+Base Weapon Speed: [0]
++200% Enhanced Damage
+Adds 5-25 Lightning Damage
+40% Increased Attack Speed
++330 To Attack Rating
+Indestructible
+10% Chance To Cast Level 3 Ice Blast On Striking
+--enditem--
+--startitem--
+Set,Hwanin's Refuge,Tigulated Mail
+Defense: 376-390 (Base Defense: 176-190)
+Required Level: 30
+Required Strength: 86
+Durability: 36
++200 Defense
+10% Chance To Cast Level 3 Static Field When Struck
+Poison Resist +27%
++100 To Life
+--enditem--
+--startitem--
+Set,Hwanin's Blessing,Belt
+Defense: 6-153 (varies)(Base Defense: 5)
+Required Level: 35
+Required Strength: 25
+Durability: 16
+12 boxes
++ (1.5 Per Character Level)  1-148 Defense (Based on Character Level)
+Adds 3-33 Lightning Damage
+Prevent Monster Heal
+12% Damage Taken Goes To Mana
+--enditem--
+--endset--
+
+--startset--
+Immortal King
+Partial Set Bonus
++50 To Attack Rating (2 Items)
+Additional +75 To Attack Rating (3 Items)
+Additional +125 To Attack Rating (4 Items)
+Additional +200 To Attack Rating (5 Items)
+
+
+
+Complete Set Bonus
++3 To Barbarian Skill Levels
++450 To Attack Rating
++150 To Life
+All Resistances +50
+Magic Damage Reduced By 10
+Display Aura
+--startitem--
+Set,Immortal King's Will,Avenger Guard
+Defense: 160-175 (varies) (Base Defense: 35-50)
+Required Level: 47
+Required Strength: 65
+Durability: 55
+(Barbarian Only)
++4 To Light Radius
++125 Defense
+37% Extra Gold From Monsters
+25-40% Better Chance Of Finding Magic Items (varies)
++2 To Warcries Skills (Barbarian Only)
+Socketed (2)
+--enditem--
+--startitem--
+Set,Immortal King's Stone Crusher,Ogre Maul
+Damage: 231 To 318 (274.5 Avg)
+Required Level: 76
+Required Strength: 225
+Base Weapon Speed: [10]
++200% Enhanced Damage
++200% Damage To Demons
++250% Damage To Undead
+40% Increased Attack Speed
+Indestructible
+35-40% Chance Of Crushing Blow (varies)
+Socketed (2)
+Adds 211-397 Fire Damage (2 items)
+Adds 7-477 Lightning Damage (3 Items)
+Adds 127-364 Cold Damage, 6 sec. Duration (Normal) (4 Items)
++204 Poison Damage Over 6 Seconds (5 Items)
+Adds 250-361 Magic Damage (Complete Set)
+--enditem--
+--startitem--
+Set,Immortal King's Soul Cage,Sacred Armor
+Defense: 1001 (Base Defense: 487-600)
+Defense: 1301 (Base Defense: 487-600)
+Required Level: 76
+Required Strength: 232
+Durability: 60
++400 Defense
+5% Chance To Cast Level 5 Enchant When Struck
+Poison Resist +50%
++2 To Combat Skills (Barbarian Only)
++25% Faster Hit Recovery (2 Items)
+Cold Resist +40% (3 Items)
+Fire Resist +40% (4 Items)
+Lightning Resist +40% (5 Items)
++50% Enhanced Defense (Complete Set)
+--enditem--
+--startitem--
+Set,Immortal King's Detail,War Belt
+Defense: 89 (Base Defense: 41-52)
+Defense: 194 (Base Defense: 41-52)
+Defense: 247 (Base Defense 41-52)
+Required Level: 29
+Required Strength: 110
+Durability: 24
+16 boxes
++36 Defense
+Lightning Resist +31%
+Fire Resist +28%
++25 To Strength
++105 Defense (2 items)
++25% Faster Hit Recovery (3 Items)
++100% Enhanced Defense (4 Items)
+Damage Reduced By 20% (5 Items)
++2 To Masteries (Barbarian Only) (Complete Set)
+--enditem--
+--startitem--
+Set,Immortal King's Forge,War Gauntlets
+Defense: 108-118 (varies)(Base Defense: 43-53)
+Defense: 228-238 (varies)(Base Defense: 43-53)
+Required Level: 30
+Required Strength: 110
+Durability: 24
++65 Defense
+12% Chance To Cast Level 4 Charged Bolt When Struck
++20 To Dexterity
++20 To Strength
++25% Increased Attack Speed (2 items)
++120 Defense (3 Items)
+10% Life Stolen Per Hit (4 Items)
+10% Mana Stolen Per Hit (5 Items)
+Freezes Target +2 (Complete Set)
+--enditem--
+--startitem--
+Set,Immortal King's Pillar,War Boots
+Defense: 118-128 (varies) (Base Defense: 43-53)
+Defense: 278-288 (varies) (Base Defense: 43-53)
+Required Level: 31
+Required Strength: 125
+Durability: 24
+Assassin Kick Damage: 39-80
++75 Defense
+40% Faster Run/Walk
++110 To Attack Rating
++44 To Life
+25% Better Chance of Getting Magic Items (2 items)
++2 To Combat Skills (Barbarian Only) (3 Items)
++160 Defense (4 Items)
+Half Freeze Duration (5 Items)
+--enditem--
+--endset--
+
+--startset--
+M'avina's Battle Hymn
+Partial Set Bonus
++20 To Strength (2 Items)
++30 To Dexterity (3 Items)
+
+
+Complete Set Bonus
++3 To Amazon Skill Levels
++20 To Strength
++30 To Dexterity
+All Resistances +50
++100 Defense
++100 To Attack Rating
+100% Better Chance Of Getting Magic Items
+Display Aura
+--startitem--
+Set,M'avina's True Sight,Diadem
+Defense: 200-210(varies) (Base Defense: 50-60)
+Required Level: 64
+Durability: 20
++150 Defense
+Replenish Life +10
++25 To Mana
++30% Increased Attack Speed
++1 To All Skills (2 Items)
+50% Bonus To Attack Rating (3 Items)
+All Resistances +25 (4 Items)
+--enditem--
+--startitem--
+Set,M'avina's Caster,Grand Matron Bow
+Damage: 40 To 207 (123.5 Avg)
+Required Level: 70
+Required Strength: 108
+Required Dexterity: 152
+Base Weapon Speed: [10]
+(Amazon Only)
++188% Enhanced Damage
++40% Increased Attack Speed
++50 To Attack Rating
+Fires Magic Arrows [Level 1]
+Adds 114-377 Magic Damage (2 Items)
+10% Chance To Cast Level 15 Nova On Striking (3 Items)
++2 To Bow and Crossbow Skills (Amazon Only) (4 Items)
+--enditem--
+--startitem--
+Set,M'avina's Embrace,Kraken Shell
+Defense: (771-1163) - (877-1269) (varies)(Base Defense: 417-523)
+Required Level: 70
+Required Strength: 122
+Durability: 48
+Requirements -30%
+10% Chance To Cast Level 3 Glacial Spike When Struck
+Magic Damage Reduced By 5-12 (varies)
++ (4 Per Character Level) 4-396 Defense (Based On Character Level)
++2 To Passive And Magic Skills (Amazon Only)
++350 Defense
++30% Faster Hit Recovery (3 Items)
+--enditem--
+--startitem--
+Set,M'avina's Icy Clutch,Battle Gauntlets
+Defense: 84-97 (varies)(Base Defense: 39-47)
+Required Level: 32
+Required Strength: 88
+Durability: 18
++45-50 Defense (varies)
+6-18 Cold Damage, 6 sec. Duration (Normal)
+Half Freeze Duration
+56% Extra Gold From Monsters
++10 To Strength
++15 To Dexterity
+Adds 131-252 Cold Damage, 4 sec. Duration (Normal) (4 Items)
++20% To Cold Skill Damage (Complete Set)
+--enditem--
+--startitem--
+Set,M'avina's Tenet,Sharkskin Belt
+Defense: 81-86 (varies)(Base Defense: 31-36)
+Required Level: 45
+Required Strength: 20
+Durability: 14
+16 boxes
++50 Defense
++20% Faster Run/Walk
++5 To Light Radius
+5% Mana Stolen Per Hit
+All Resistances +25 (4 Items)
+--enditem--
+--endset--
+
+--startset--
+Natalya's Odium
+Partial Set Bonus
+Magic Damage Reduced By 15 (2 Items)
++200 Defense (3 Items)
+
+
+Complete Set Bonus
++3 To Assassin Skill Levels
++350 Defense
+14% Life Stolen Per Hit
+14% Mana Stolen Per Hit
+All Resistances +50
+Damage Reduced by 30% (Awesome!)
+Magic Damage Reduced By 15
+Fade*
+--startitem--
+Set,Natalya's Totem,Grim Helm
+Defense: 195-300(varies) (Base Defense: 60-125)
+Required Level: 59
+Required Strength: 58
+Durability: 40
++135-175 Defense (varies)
+All Resistances +10-20 (varies)
++20-30 To Dexterity (varies)
++10-20 To Strength (varies)
+Magic Damage Reduced By 3
+--enditem--
+--startitem--
+Set,Natalya's Mark,Scissors Suwayyah
+Damage: 120 To 153 (136.5 Avg)
+Required Level: 79
+Required Strength: 118
+Required Dexterity: 118
+Durability: 68
+Base Weapon Speed: [0]
+(Assassin Only)
++200% Enhanced Damage
++200% Damage To Undead
++200% Damage To Demons
+Adds 12-17 Fire Damage
+Ignores Target's Defense
+40% Increased Attack Speed
++50 Cold Damage, 4 sec. Duration (Normal)
+--enditem--
+--startitem--
+Set,Natalya's Shadow,Loricated Mail
+Defense: 540-721 (varies)(Base Defense: 390-496)
+Required Level: 73
+Required Strength: 149
+Durability: 36
++150-225 Defense (varies)
++ (1  Per Character Level) 1-99 To Life (Based On Character Level)
+Poison Length Reduced By 75%
+Poison Resist +25%
++2 To Shadow Disciplines Skills (Assassin Only)
+Socketed (1-3) (varies)
+--enditem--
+--startitem--
+Set,Natalya's Soul,Mesh Boots
+Defense: 112-169 (varies)(Base Defense: 37-44)
+Required Level: 25
+Required Strength: 65
+Durability: 66
+Assassin Kick Damage: 23-52
++75-125 Defense (varies)
++40% Faster Run/Walk
+Heal Stamina Plus  (0.25 Per Character Level)  0-24% (Based On Character Level)
+Cold Resist +15-25% (varies)
+Lightning Resist +15-25% (varies)
+--enditem--
+--endset--
+
+--startset--
+Naj's Ancient Vestige
+Partial Set Bonus
++175 Defense (2 Items)
+
+
+Complete Set Bonus
++175 Defense
++15 To Dexterity
+All Resistances +50
++20 To Strength
++100 To Mana
++1 To All Skills
+Replenish Life +10
+--startitem--
+Set,Naj's Circlet,Circlet
+Defense: 95-105(varies) (Base Defense: 20-30)
+Required Level: 28
+Durability: 35
++75 Defense
++25-35 Fire Damage
+12% Chance To Cast Level 5 Chain Lightning When Struck
++15 To Strength
++5 To Light Radius
+--enditem--
+--startitem--
+Set,Naj's Light Plate,Hellforge Plate
+Defense: 721-830 (varies)(Base Defense: 421-530)
+Required Level: 71
+Required Strength: 79
+Durability: 60
++300 Defense
+Requirements -60%
+45% Damage Taken Goes To Mana
++1 To All Skills
+All Resistances +25
++65 To Life
+--enditem--
+--startitem--
+Set,Naj's Puzzler,Elder Staff
+Damage: 200 To 232 (216 Avg)
+Required Level: 78
+Required Strength: 44
+Required Dexterity: 37
+Durability: 35
+Base Weapon Speed: [0]
++150% Enhanced Damage
++50% Damage To Undead
+Adds 6-45 Lightning Damage
++30% Faster Cast Rate
++1 To All Skills
++70 To Mana
++35 To Energy
+Level 11 Teleport (69 Charges)
+--enditem--
+--endset--
+
+--startset--
+Orphan's Call
+Partial Set Bonus
++35 Life (2 Items)
+Attacker Takes Damage of 5 (3 Items)
+
+
+Complete Set Bonus
++85 To Life
+Attacker Takes Damage of 5
+All Resistances +15
++100 Defense
++10 To Dexterity
++20 To Strength
+80% Better Chance of Getting Magic Items
+--startitem--
+Set,Guillaume's Face,Winged Helm
+Defense: 217 (Base Defense: 85-98)
+Required Level: 34
+Required Strength: 115
+Durability: 40
++120% Enhanced Defense
++30% Faster Hit Recovery
+15% Deadly Strike
+35% Chance of Crushing Blow
++15 To Strength
+--enditem--
+--startitem--
+Set,Whitstan's Guard,Round Shield
+Defense: 154 (Base Defense: 47-55)
+Required Level: 29
+Required Strength: 53
+Durability: 64
+Chance To Block: Pal: 97% Ama/Asn/Bar: 92% Dru/Nec/Sor: 87%
+Paladin Smite Damage: 7 to 14
++175% Enhanced Defense
+Half Freeze Duration
+40% Faster Block Rate
++55% Increased Chance Of Blocking
++5 To Light Radius
+--enditem--
+--startitem--
+Set,Magnus' Skin,Sharkskin Gloves
+Defense: 60 (Base Defense: 33-39)
+Required Level: 37
+Required Strength: 20
+Durability: 14
++50% Enhanced Defense
++20% Increased Attack Speed
++100 To Attack Rating
++3 To Light Radius
+Fire Resist +15%
+--enditem--
+--startitem--
+Set,Wilhelm's Pride,Battle Belt
+Defense: 75 (Base Defense: 37-42)
+Required Level: 42
+Required Strength: 88
+Durability: 18
+16 boxes
++75% Enhanced Defense
+5% Life Stolen Per Hit
+5% Mana Stolen Per Hit
+Cold Resist +10%
+--enditem--
+--endset--
+
+--startset--
+Sander's Folly
+Partial Set Bonus
++50 Defense (2 Items)
++75 To Attack Rating (3 Items)
+
+
+Complete Set Bonus
++50 Defense
++75 To Attack Rating
++1 To All Skills
+4% Life Stolen Per Hit
++50 To Mana
+50% Better Chance Of Getting Magic Items
+--startitem--
+Set,Sander's Paragon,Cap
+Defense: (4-102) - (6-104)(varies) (Base Defense: 3-5)
+Required Level: 25
+Durability: 12
++ (1 Per Character Level)  1-99 Defense (Based on Character Level)
+Attacker Takes Damage of 8
+35% Better Chance of Getting Magic Items
+--enditem--
+--startitem--
+Set,Sander's Superstition,Bone Wand
+Damage: 5 To 12 (8.5 Avg)
+Required Level: 25
+Durability: 15
+Base Weapon Speed: [-20]
++75% Enhanced Damage
++50% Damage To Undead
++20% Faster Cast Rate
++25 To Mana
+8% Mana Stolen Per Hit
+25-75 Cold Damage, 2 sec. Duration (Normal)
+--enditem--
+--startitem--
+Set,Sander's Taboo,Heavy Gloves
+Defense: 25-31 (varies)(Base Defense: 5-6)
+Required Level: 28
+Durability: 14
+Adds 9-11 Poison Damage Over 3 Seconds
++20-25 Defense
++40 To Life
++20% Increased Attack Speed
+--enditem--
+--startitem--
+Set,Sander's Riprap,Heavy Boots
+Defense: 5-6 (varies)
+Required Level: 20
+Required Strength: 18
+Durability: 14
+Assassin Kick Damage: 4-10
++40% Faster Run/Walk
++100 To Attack Rating
++10 To Dexterity
++5 To Strength
+--enditem--
+--endset--
+
+--startset--
+Sazabi's Grand Tribute
+Partial Set Bonus
++40% Faster Run/Walk (2 Items)
+
+
+Complete Set Bonus
++40% Faster Run/Walk
+15% Life Stolen Per Hit
+Increase Maximum Life 27%
+All Resistances +30
+--startitem--
+Set,Sazabi's Mental Sheath,Basinet
+Defense: 175-184(varies) (Base Defense: 75-84)
+Required Level: 43
+Required Strength: 82
+Durability: 30
++1 To All Skills
+Lightning Resist +15-20% (varies)
+Fire Resist +15-20% (varies)
++100 Defense
+--enditem--
+--startitem--
+Set,Sazabi's Cobalt Redeemer,Cryptic Sword
+Damage: 12 To 192 (102 Avg)
+Required Level: 73
+Required Strength: 99
+Required Dexterity: 109
+Base Weapon Speed: [-10]
++150% Enhanced Damage
++318% Damage To Demons
+Adds 25-35 Cold Damage, 2 sec. Duration (Normal)
++40% Increased Attack Speed
+Indestructible
++15 To Dexterity
++5 To Strength
+--enditem--
+--startitem--
+Set,Sazabi's Ghost Liberator,Balrog Skin
+Defense: 810-917 (varies)(Base Defense: 410-517)
+Required Level: 67
+Required Strength: 165
+Durability: 30
++400 Defense
++30% Faster Hit Recovery
++300 To Attack Rating Against Demons
++25 To Strength
++50-75 To Life (varies)
+--enditem--
+--endset--
+
+--startset--
+Tal Rasha's Wrappings
+Partial Set Bonus
+Replenish Life +10 (2 Items)
+65% Better Chance Of Getting Magic Items (3 Items)
+25% Faster Hit Recovery (4 Items)
+
+
+Complete Set Bonus
++3 To Sorceress Skill Levels
+Replenish Life +10
+65% Better Chance Of Getting Magic Items
+25% Faster Hit Recovery
++150 To Life
+All Resistances +50
++50 Defense vs. Missile
++150 Defense
+Display Aura
+--startitem--
+Set,Tal Rasha's Lidless Eye,Swirling Crystal
+Damage: 18 To 42 (30 Avg)
+Required Level: 65
+Durability: 50
+Base Weapon Speed: [10]
+(Sorceress Only)
+20% Faster Cast Rate
++77 To Mana
++57 To Life
++10 To Energy
++1-2 To Lightning Mastery (Sorceress Only) (varies)
++1-2 To Fire Mastery (Sorceress Only) (varies)
++1-2 To Cold Mastery (Sorceress Only) (varies)
++1 To Sorceress Skill Levels (2 Items)
+-15% To Enemy Fire Resistance (3 Items)
+-15% To Enemy Lightning Resistance (4 Items)
++15% To Cold Skills Damage (Complete Set)
+--enditem--
+--startitem--
+Set,Tal Rasha's Horadric Crest,Death Mask
+Defense: 99-131 (varies)(Base Defense: 54-86)
+Required Level: 66
+Required Strength: 55
+Durability: 20
+10% Life Stolen Per Hit
+10% Mana Stolen Per Hit
+All Resistances +15
++45 Defense
++30 To Mana
++60 To Life
+--enditem--
+--startitem--
+Set,Tal Rasha's Guardianship,Lacquered Plate
+Defense: 833-941 (varies)(Base Defense: 433-541)
+Required Level: 71
+Required Strength: 84
+Durability: 55
++400 Defense
+Requirements -60%
+Magic Damage Reduced By 15
+Cold Resist +40%
+Lightning Resist +40%
+Fire Resist +40%
+88% Better Chance Of Getting Magic Items
++10% Faster Cast Rate (2 Items)
+--enditem--
+--startitem--
+Set,Tal Rasha's Fine-Spun Cloth,Mesh Belt
+Defense: 35-40 (varies)
+Defense: 95-100 (varies) (Base Defense: 35-40)
+Required Level: 53
+Required Strength: 47
+Durability: 16
+16 boxes
+Requirements -20%
+37% Damage Taken Goes To Mana
++30 To Mana
++20 To Dexterity
+10-15% Better Chance Of Getting Magic Items (varies)
++60 Defense (2 Items)
++10% Faster Cast Rate (3 Items)
+--enditem--
+--startitem--
+Set,Tal Rasha's Adjudication,Amulet
+Required Level: 67
++2 To Sorceress Skill Levels
+Lightning Resist +33%
+Adds 3-32 Lightning Damage
++42 To Mana
++50 To Life
++10% Faster Cast Rate (4 Items)
+--enditem--
+--endset--
+
+--startset--
+Trang-Oul's Avatar
+Partial Set Bonus
++18 To Fire Ball (2 Items)*
+Regenerate Mana 15% (2 Items)
++13 To Fire Wall (3 Items)
+Additional Regenerate Mana 15% (3 Items)
+Additional Regenerate Mana 15% (4 Items)
++10 To Meteor (4 Items)
+
+
+Complete Set Bonus
++3 To Necromancer Skill Levels
+20% Life Stolen Per Hit
++3 To Fire Mastery
++10 To Meteor
++13 To Fire Wall
++18 To Fire Ball*
++200 Defense
++100 To Mana
+Regenerate Mana 60%
+All Resistances +50
+Transforms into Vampire
+--startitem--
+Set,Trang-Oul's Guise,Bone Visage
+Defense: 180-257 (varies)(Base Defense: 100-157)
+Required Level: 65
+Required Strength: 106
+Durability: 40
+25% Faster Hit Recovery
+Replenish Life +5
++80-100 Defense (varies)
++150 To Mana
+Attacker Takes Damage of 20
+--enditem--
+--startitem--
+Set,Trang-Oul's Scales,Chaos Armor
+Defense: 857 (Base Defense: 315-343)
+Required Level: 49
+Required Strength: 84
+Durability: 70
++150% Enhanced Defense
+Requirements -40%
+40% Faster Run/Walk
+Poison Resist +40%
++100 Defense vs. Missile
++2 To Summoning Skills (Necromancer Only)
+Lightning Resist +50% (3 Items)
+Damage Reduced By 25% (Complete Set)
+--enditem--
+--startitem--
+Set,Trang-Oul's Wing,Cantor Trophy
+Defense: 175-189 (varies)(Base Defense: 50-64)
+Required Level: 54
+Required Strength: 50
+Durability: 20
+Chance to Block: 60%
+(Necromancer Only)
++125 Defense
++30% Increased Chance Of Blocking
+Poison Resist +40%
+Fire Resist +38-45% (varies)
++15 To Dexterity
++25 To Strength
++2 To Poison And Bone Skills (Necromancer Only)
+-25% To Enemy Poison Resistance (3 Items)
+Replenish Life +15 (4 Items)
+--enditem--
+--startitem--
+Set,Trang-Oul's Girth,Troll Belt
+Defense: 134-166 (varies)(Base Defense: 59-66)
+Required Level: 62
+Required Strength: 91
+Durability: 18
+16 boxes
++75-100 Defense (varies)
+Requirements -40%
+Cannot Be Frozen
+Replenish Life +5
++25-50 To Mana (varies)
++30 Maximum Stamina
++66 To Life
+Cold Resist +40% (3 Items)
+--enditem--
+--startitem--
+Set,Trang-Oul's Claws,Heavy Bracers
+Defense: 67-74 (varies)(Base Defense: 37-44)
+Required Level: 45
+Required Strength: 58
+Durability: 16
++20% Faster Cast Rate
+Cold Resist +30%
++30 Defense
++25% Poison Skill Damage
++2 To Curses (Necromancer Only)
+--enditem--
+--endset--
