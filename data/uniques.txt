@@ -1,5 +1,5 @@
 --startitem--
-Unique,Alma Negra,Sacred Rondache
+Unique,Alma Negra,Sacred Rondache,Unique Paladin Items
 Defense: 461-511 (varies)(Base Defense: 138-164)
 Required Level: 77
 Required Strength: 109
@@ -18,7 +18,7 @@ Magic Damage Reduced By 5-9 (varies)
 --enditem--
 
 --startitem--
-Unique,Herald Of Zakarum,Gilded Shield
+Unique,Herald Of Zakarum,Gilded Shield,Unique Paladin Items
 Defense: 422-507 (varies)(Base Defense: 144-168)
 Required Level: 42
 Required Strength: 89
@@ -39,7 +39,7 @@ All Resistances +50
 --enditem--
 
 --startitem--
-Unique,Dragonscale,Zakarum Shield
+Unique,Dragonscale,Zakarum Shield,Unique Paladin Items
 Defense: 523-582 (varies)(Base Defense: 169-193)
 Required Level: 80
 Required Strength: 142
@@ -58,7 +58,7 @@ Fire Absorb 10-20% (varies)
 --enditem--
 
 --startitem--
-Unique,Harlequin Crest,Shako
+Unique,Harlequin Crest,Shako,Elite Unique Helms
 Defense: 98-141 (varies)
 Required Level: 62
 Required Strength: 50
@@ -73,7 +73,7 @@ Damage Reduced By 10%
 --enditem--
 
 --startitem--
-Unique,Steel Shade,Armet
+Unique,Steel Shade,Armet,Elite Unique Helms
 Defense: 300-345 (varies)(Base Defense: 105-149)
 Required Level: 62
 Required Strength: 109
@@ -86,7 +86,7 @@ Replenish Life +10-18 (varies)
 --enditem--
 
 --startitem--
-Unique,Veil of Steel,Spired Helm
+Unique,Veil of Steel,Spired Helm,Elite Unique Helms
 Defense: 396 (Base Defense: 114-159)
 Required Level: 73
 Required Strength: 192
@@ -101,7 +101,7 @@ All Resistances +50
 --enditem--
 
 --startitem--
-Unique,Nightwing's Veil,Spired Helm
+Unique,Nightwing's Veil,Spired Helm,Elite Unique Helms
 Defense: 304-352 (varies)(Base Defense: 114-159)
 Required Level: 67
 Required Strength: 96
@@ -117,7 +117,7 @@ Requirements -50%
 --enditem--
 
 --startitem--
-Unique,Andariel's Visage,Demonhead
+Unique,Andariel's Visage,Demonhead,Elite Unique Helms
 Defense: 310-387 (varies)(Base Defense: 101-154)
 Required Level: 83
 Required Strength: 102
@@ -137,7 +137,7 @@ Level 3 Venom (20 charges)
 --enditem--
 
 --startitem--
-Unique,Crown of Ages,Corona
+Unique,Crown of Ages,Corona,Elite Unique Helms
 Defense: 349-399 (varies)(Base Defense: 111-165)
 Required Level: 82
 Required Strength: 174
@@ -153,7 +153,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Giant Skull,Bone Visage
+Unique,Giant Skull,Bone Visage,Elite Unique Helms
 Defense: 350-477 (varies)(Base Defense: 100-157)
 Required Level: 65
 Required Strength: 106
@@ -167,7 +167,7 @@ Socketed (1-2) (varies)
 --enditem--
 
 --startitem--
-Unique,Annihilus*,Small Charm
+Unique,Annihilus*,Small Charm,Unique Charms
 Required Level: 70
 +1 To All Skills
 +10-20 To All Attributes (varies)
@@ -178,7 +178,7 @@ All Resistances +10-20 (varies)
 --enditem--
 
 --startitem--
-Unique,Gheed's Fortune*,Grand Charm
+Unique,Gheed's Fortune*,Grand Charm,Unique Charms
 Required Level: 62
 80-160% Extra Gold From Monsters (varies)
 Reduces All Vendor Prices 10-15% (varies)
@@ -188,7 +188,7 @@ Reduces All Vendor Prices 10-15% (varies)
 --enditem--
 
 --startitem--
-Unique,Hellfire Torch*,Large Charm
+Unique,Hellfire Torch*,Large Charm,Unique Charms
 Required Level: 75
 5% Chance To Cast level 10 Firestorm* On Striking
 +3 to Random Character Class Skills (varies)
@@ -200,7 +200,7 @@ Level 30 Hydra (10 charges)
 --enditem--
 
 --startitem--
-Unique,Arachnid Mesh,Spiderweb Sash
+Unique,Arachnid Mesh,Spiderweb Sash,Elite Unique Belts
 Defense: 119-138 (varies)(Base Defense: 55-62)
 Required Level: 80
 Required Strength: 50
@@ -216,7 +216,7 @@ Level 3 Venom (11 Charges)
 --enditem--
 
 --startitem--
-Unique,Nosferatu's Coil*,Vampirefang Belt
+Unique,Nosferatu's Coil*,Vampirefang Belt,Elite Unique Belts
 Defense: 56-63 (varies)
 Required Level: 51
 Required Strength: 50
@@ -232,7 +232,7 @@ Slows Target By 10%
 --enditem--
 
 --startitem--
-Unique,Verdungo's Hearty Cord,Mithril Coil
+Unique,Verdungo's Hearty Cord,Mithril Coil,Elite Unique Belts
 Defense: 125-158 (varies)(Defense: 58-65)
 Required Level: 63
 Required Strength: 106
@@ -248,7 +248,7 @@ Damage Reduced By 10-15% (varies)
 --enditem--
 
 --startitem--
-Unique,Arioc's Needle,Hyperion Spear
+Unique,Arioc's Needle,Hyperion Spear,Elite Unique Spears
 Two-Hand Damage: (98-115) To (333-392) (215.5-253.5 Avg)
 Required Level: 81
 Required Strength: 155
@@ -265,7 +265,7 @@ Ignore Target's Defense
 --enditem--
 
 --startitem--
-Unique,Viperfork,Mancatcher
+Unique,Viperfork,Mancatcher,Elite Unique Spears
 Two-Hand Damage: (121-142) To (266-312) (193.5-227 Avg)
 Required Level: 71
 Required Strength: 132
@@ -282,7 +282,7 @@ Poison Resist +30-50% (varies)
 --enditem--
 
 --startitem--
-Unique,Steel Pillar,War Pike
+Unique,Steel Pillar,War Pike,Elite Unique Spears
 Two-Hand Damage: (102-118) To (551-640) (326.5-379 Avg)
 Required Level: 69
 Required Strength: 165
@@ -298,7 +298,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Ormus' Robes,Dusk Shroud
+Unique,Ormus' Robes,Dusk Shroud,Elite Unique Armor
 Defense: 371-487 (varies)(Base Defense: 361-467)
 Required Level: 75
 Required Strength: 77
@@ -314,7 +314,7 @@ Regenerate Mana 10-15% (varies)
 --enditem--
 
 --startitem--
-Unique,The Gladiator's Bane,Wire Fleece
+Unique,The Gladiator's Bane,Wire Fleece,Elite Unique Armor
 Defense: 1255-1496 (varies)(Base Defense: 375-481)
 Required Level: 85
 Required Strength: 111
@@ -331,7 +331,7 @@ Magic Damage Reduced By 15-20 (varies)
 --enditem--
 
 --startitem--
-Unique,Arkaine's Valor,Balrog Skin
+Unique,Arkaine's Valor,Balrog Skin,Elite Unique Armor
 Defense: 1295-1450 (varies)(Base Defense: 410-517)
 Required Level: 85
 Required Strength: 165
@@ -345,7 +345,7 @@ Damage Reduced By 10-15 (varies)
 --enditem--
 
 --startitem--
-Unique,Leviathan,Kraken Shell
+Unique,Leviathan,Kraken Shell,Elite Unique Armor
 Defense: 1514-1722 (varies)(Base Defense: 417-523)
 Required Level: 65
 Required Strength: 174
@@ -359,7 +359,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Steel Carapace,Shadow Plate
+Unique,Steel Carapace,Shadow Plate,Elite Unique Armor
 Defense: 1618-1785 (varies)(Base Defense: 446-557)
 Required Level: 66
 Required Strength: 230
@@ -375,7 +375,7 @@ Repairs 1 Durability in 20 Seconds
 --enditem--
 
 --startitem--
-Unique,Templar's Might,Sacred Armor
+Unique,Templar's Might,Sacred Armor,Elite Unique Armor
 Defense: 1622-1923 (varies)(Base Defense: 487-600)
 Required Level: 74
 Required Strength: 232
@@ -391,7 +391,7 @@ Durability: 60
 --enditem--
 
 --startitem--
-Unique,Tyrael's Might,Sacred Armor
+Unique,Tyrael's Might,Sacred Armor,Elite Unique Armor
 Defense: 1322-1502 (varies)(Base Defense: 487-600)
 Required Level: 84
 Required Strength: None
@@ -409,7 +409,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Suicide Branch,Burnt Wand
+Unique,Suicide Branch,Burnt Wand,Exceptional Unique Wands
 One-Hand Damage: 8 To 18 (13 Avg)
 Required Level: 33
 Required Strength: 25
@@ -426,7 +426,7 @@ Attacker Takes Damage of 25
 --enditem--
 
 --startitem--
-Unique,Carin Shard,Petrified Wand
+Unique,Carin Shard,Petrified Wand,Exceptional Unique Wands
 One-Hand Damage: 8 To 24 (16 Avg)
 Required Level: 35
 Required Strength: 25
@@ -444,7 +444,7 @@ Replenish Life +5
 --enditem--
 
 --startitem--
-Unique,Arm of King Leoric,Tomb Wand
+Unique,Arm of King Leoric,Tomb Wand,Exceptional Unique Wands
 One-Hand Damage: 10 To 22 (16 Avg)
 Required Level: 36
 Required Strength: 25
@@ -465,7 +465,7 @@ Base Weapon Speed: [-20]
 --enditem--
 
 --startitem--
-Unique,Blackhand Key,Grave Wand
+Unique,Blackhand Key,Grave Wand,Exceptional Unique Wands
 One-Hand Damage: 13 To 29 (21 Avg)
 Required Level: 41
 Required Strength: 25
@@ -484,7 +484,7 @@ Level 13 Grim Ward (30 Charges)
 --enditem--
 
 --startitem--
-Unique,Arreat's Face,Slayer Guard
+Unique,Arreat's Face,Slayer Guard,Unique Barbarian Items
 Defense: 302-363 (varies)(Base Defense: 121)
 Required Level: 42
 Required Strength: 118
@@ -503,7 +503,7 @@ All Resistances +30
 --enditem--
 
 --startitem--
-Unique,Wolfhowl,Fury Visor
+Unique,Wolfhowl,Fury Visor,Unique Barbarian Items
 Defense: 332-377 (varies)(Base Defense: 105-150)
 Required Level: 79
 Required Strength: 129
@@ -522,7 +522,7 @@ Level 15 Summon Dire Wolf (18 Charges)
 --enditem--
 
 --startitem--
-Unique,Demonhorn's Edge,Destroyer Helm
+Unique,Demonhorn's Edge,Destroyer Helm,Unique Barbarian Items
 Defense: 345-408 (varies)(Base Defense: 111-156)
 Required Level: 61
 Required Strength: 151
@@ -540,7 +540,7 @@ Attacker Takes Damage of 55-77 (varies)
 --enditem--
 
 --startitem--
-Unique,Halaberd's Reign,Conqueror Crown
+Unique,Halaberd's Reign,Conqueror Crown,Unique Barbarian Items
 Defense: 384-432 (varies)(Base Defense: 114-159)
 Required Level: 77
 Required Strength: 174
@@ -558,7 +558,7 @@ Replenish Life +15-23 (varies)
 --enditem--
 
 --startitem--
-Unique,Heaven's Light,Mighty Scepter
+Unique,Heaven's Light,Mighty Scepter,Elite Unique Scepters
 One-Hand Damage: (140-160) To (182-208) (161-184 Avg)*
 Required Level: 61
 Required Strength: 125
@@ -580,7 +580,7 @@ Socketed (1-2) (varies)*
 --enditem--
 
 --startitem--
-Unique,The Redeemer,Mighty Scepter
+Unique,The Redeemer,Mighty Scepter,Elite Unique Scepters
 One-Hand Damage: (140-160) To (182-208) (161-184 Avg)*
 Required Level: 72
 Required Strength: 50
@@ -602,7 +602,7 @@ Requirements -60%
 --enditem--
 
 --startitem--
-Unique,Astreon's Iron Ward,Caduceus
+Unique,Astreon's Iron Ward,Caduceus,Elite Unique Scepters
 One-Hand Damage: (125-144) To (146-167) (135.5-155.5 Avg)
 Required Level: 66
 Required Strength: 97
@@ -623,7 +623,7 @@ Damage Reduced By 4-7 (varies)
 --enditem--
 
 --startitem--
-Unique,The Meat Scraper,Lochaber Axe
+Unique,The Meat Scraper,Lochaber Axe,Exceptional Unique Polearms
 Two-Hand Damage: (15-18) To (145-174) (80-96 Avg)
 Required Level: 41
 Required Strength: 80
@@ -639,7 +639,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Blackleach Blade,Bill
+Unique,Blackleach Blade,Bill,Exceptional Unique Polearms
 Two-Hand Damage: (28-33) To (107-250) (67.5-141.5 Avg)
 Required Level: 42
 Required Strength: 72
@@ -655,7 +655,7 @@ Requirements -25%
 --enditem--
 
 --startitem--
-Unique,Athena's Wrath,Battle Scythe
+Unique,Athena's Wrath,Battle Scythe,Exceptional Unique Polearms
 Two-Hand Damage: (45-50) To (113-224) (79-137 Avg)
 Required Level: 42
 Required Strength: 82
@@ -672,7 +672,7 @@ Base Weapon Speed: [-10]
 --enditem--
 
 --startitem--
-Unique,Pierre Tombale Couant,Partizan
+Unique,Pierre Tombale Couant,Partizan,Exceptional Unique Polearms
 Two-Hand Damage: (100-120) To (215-260) (157.5-190 Avg)
 Required Level: 43
 Required Strength: 113
@@ -690,7 +690,7 @@ Adds 12-20 Damage
 --enditem--
 
 --startitem--
-Unique,Husoldal Evo,Bec-De-Corbin
+Unique,Husoldal Evo,Bec-De-Corbin,Exceptional Unique Polearms
 Two-Hand Damage: (53-59) To (253-287) (153-173 Avg)
 Required Level: 44
 Required Strength: 133
@@ -707,7 +707,7 @@ Replenish Life +20
 --enditem--
 
 --startitem--
-Unique,Grim's Burning Dead,Grim Scythe
+Unique,Grim's Burning Dead,Grim Scythe,Exceptional Unique Polearms
 Two-Hand Damage: (72-84) To (168-196) (120-140 Avg)
 Required Level: 45
 Required Strength: 70
@@ -727,7 +727,7 @@ Attacker Takes Damage of 8
 --enditem--
 
 --startitem--
-Unique,Nokozan Relic,Amulet
+Unique,Nokozan Relic,Amulet,Unique Amulets
 Required Level: 10
 +20% Faster Hit Recovery
 Fire Resist +50%
@@ -738,7 +738,7 @@ Adds 3-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,The Eye of Etlich,Amulet
+Unique,The Eye of Etlich,Amulet,Unique Amulets
 Required Level: 15
 +1-5 To Light Radius (varies)
 +1 To All Skills
@@ -750,7 +750,7 @@ Cold Duration: 2-10 Seconds (varies)*
 --enditem--
 
 --startitem--
-Unique,The Mahim-Oak Curio,Amulet
+Unique,The Mahim-Oak Curio,Amulet,Unique Amulets
 Required Level: 25
 +10 Defense
 +10% Enhanced Defense
@@ -761,7 +761,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Saracen's Chance,Amulet
+Unique,Saracen's Chance,Amulet,Unique Amulets
 Required Level: 47
 10% Chance To Cast Level 2 Iron Maiden When Struck
 All Resistances +15-25 (varies)
@@ -770,7 +770,7 @@ All Resistances +15-25 (varies)
 --enditem--
 
 --startitem--
-Unique,The Cat's Eye,Amulet
+Unique,The Cat's Eye,Amulet,Unique Amulets
 Required Level: 50
 +30% Faster Run/Walk
 +20% Increased Attack Speed
@@ -781,7 +781,7 @@ Required Level: 50
 --enditem--
 
 --startitem--
-Unique,Crescent Moon,Amulet
+Unique,Crescent Moon,Amulet,Unique Amulets
 Required Level: 50
 10% Damage Taken Goes To Mana
 +45 To Mana
@@ -793,7 +793,7 @@ Magic Damage Reduced By 10
 --enditem--
 
 --startitem--
-Unique,Atma's Scarab,Amulet
+Unique,Atma's Scarab,Amulet,Unique Amulets
 Required Level: 60
 5% Chance To Cast Level 2 Amplify Damage On Striking
 20% Bonus To Attack Rating
@@ -805,7 +805,7 @@ Attacker Takes Damage of 5
 --enditem--
 
 --startitem--
-Unique,The Rising Sun,Amulet
+Unique,The Rising Sun,Amulet,Unique Amulets
 Required Level: 65
 +2 To Fire Skills
 2% Chance To Cast Level 13-19 Meteor When Struck (varies)
@@ -817,7 +817,7 @@ Replenish Life +10
 --enditem--
 
 --startitem--
-Unique,Highlord's Wrath,Amulet
+Unique,Highlord's Wrath,Amulet,Unique Amulets
 Required Level: 65
 +1 To All Skills
 +20% Increased Attack Speed
@@ -829,7 +829,7 @@ Attacker Takes Lightning Damage Of 15
 --enditem--
 
 --startitem--
-Unique,Mara's Kaleidoscope,Amulet
+Unique,Mara's Kaleidoscope,Amulet,Unique Amulets
 Required Level: 67
 +2 To All Skills
 All Resistances +20-30 (varies)
@@ -838,7 +838,7 @@ All Resistances +20-30 (varies)
 --enditem--
 
 --startitem--
-Unique,Seraph's Hymn*,Amulet
+Unique,Seraph's Hymn*,Amulet,Unique Amulets
 Required Level: 65
 +2 To All Skills
 +1-2 To Defensive Auras (Paladin Only) (varies)
@@ -852,7 +852,7 @@ Required Level: 65
 --enditem--
 
 --startitem--
-Unique,Metalgrid,Amulet
+Unique,Metalgrid,Amulet,Unique Amulets
 Required Level: 81
 +400-450 To Attack Rating (varies)
 Level 22 Iron Golem (11 Charges)
@@ -864,7 +864,7 @@ All Resistances +25-35 (varies)
 --enditem--
 
 --startitem--
-Unique,The Spirit Shroud,Ghost Armor
+Unique,The Spirit Shroud,Ghost Armor,Exceptional Unique Armor
 Defense: 295 (Base Defense: 102-117)
 Required Level: 28
 Required Strength: 38
@@ -878,7 +878,7 @@ Magic Damage Reduced By 7-11 (varies)
 --enditem--
 
 --startitem--
-Unique,Skin of the Vipermagi,Serpentskin Armor
+Unique,Skin of the Vipermagi,Serpentskin Armor,Exceptional Unique Armor
 Defense: 279 (Base Defense: 111-126)
 Required Level: 29
 Required Strength: 43
@@ -892,7 +892,7 @@ All Resistances +20-35 (varies)
 --enditem--
 
 --startitem--
-Unique,Skin of the Flayed One,Demonhide Armor
+Unique,Skin of the Flayed One,Demonhide Armor,Exceptional Unique Armor
 Defense: 342-397 (varies)(Base Defense: 122-136)
 Required Level: 31
 Required Strength: 50
@@ -906,7 +906,7 @@ Attacker Takes Damage of 15
 --enditem--
 
 --startitem--
-Unique,Iron Pelt,Trellised Armor
+Unique,Iron Pelt,Trellised Armor,Exceptional Unique Armor
 Defense: (234-528) - (311-605) (varies)(Base Defense: 138-153)
 Required Level: 33
 Required Strength: 61
@@ -920,7 +920,7 @@ Magic Damage Reduced by 10-16 (varies)
 --enditem--
 
 --startitem--
-Unique,Crow Caw,Tigulated Mail
+Unique,Crow Caw,Tigulated Mail,Exceptional Unique Armor
 Defense: 477-534 (varies)(Base Defense: 176-190)
 Required Level: 37
 Required Strength: 86
@@ -934,7 +934,7 @@ Durability: 36
 --enditem--
 
 --startitem--
-Unique,Spirit Forge,Linked Mail
+Unique,Spirit Forge,Linked Mail,Exceptional Unique Armor
 Defense: 380-449 (varies)(Base Defense: 158-172)
 Required Level: 35
 Required Strength: 74
@@ -950,7 +950,7 @@ Gem Sockets (2)
 --enditem--
 
 --startitem--
-Unique,Duriel's Shell,Cuirass
+Unique,Duriel's Shell,Cuirass,Exceptional Unique Armor
 Defense:  (528-650) - (610-732) (varies)(Base Defense: 188-202)
 Required Level: 41
 Required Strength: 65
@@ -968,7 +968,7 @@ Cannot Be Frozen
 --enditem--
 
 --startitem--
-Unique,Shaftstop,Mesh Armor
+Unique,Shaftstop,Mesh Armor,Exceptional Unique Armor
 Defense: 599-684 (varies)(Base Defense: 198-213)
 Required Level: 38
 Required Strength: 92
@@ -981,7 +981,7 @@ Damage Reduced By 30%
 --enditem--
 
 --startitem--
-Unique,Skullder's Ire,Russet Armor
+Unique,Skullder's Ire,Russet Armor,Exceptional Unique Armor
 Defense: 634-732 (varies)(Base Defense: 225-243)
 Required Level: 42
 Required Strength: 97
@@ -995,7 +995,7 @@ Magic Damage Reduced By 10
 --enditem--
 
 --startitem--
-Unique,Que-Hegan's Wisdom,Mage Plate
+Unique,Que-Hegan's Wisdom,Mage Plate,Exceptional Unique Armor
 Defense: 628-681 (varies)(Base Defense: 225-261)
 Required Level: 51
 Required Strength: 55
@@ -1011,7 +1011,7 @@ Magic Damage Reduced By 6-10 (varies)
 --enditem--
 
 --startitem--
-Unique,Toothrow,Sharktooth Armor
+Unique,Toothrow,Sharktooth Armor,Exceptional Unique Armor
 Defense: 713-888 (varies)(Base Defense: 242-258)
 Required Level: 48
 Required Strength: 103
@@ -1026,7 +1026,7 @@ Attacker Takes Damage of 20-40 (varies)
 --enditem--
 
 --startitem--
-Unique,Guardian Angel,Templar Coat
+Unique,Guardian Angel,Templar Coat,Exceptional Unique Armor
 Defense: 770-825 (varies)(Base Defense: 252-274)
 Required Level: 45
 Required Strength: 118
@@ -1045,7 +1045,7 @@ Durability: 60
 --enditem--
 
 --startitem--
-Unique,Atma's Wail,Embossed Plate
+Unique,Atma's Wail,Embossed Plate,Exceptional Unique Armor
 Defense: (670-866) - (792-988) (varies)(Base Defense: 282-303)
 Required Level: 51
 Required Strength: 125
@@ -1061,7 +1061,7 @@ Increase Maximum Mana 15%
 --enditem--
 
 --startitem--
-Unique,Black Hades,Chaos Armor
+Unique,Black Hades,Chaos Armor,Exceptional Unique Armor
 Defense: 823-1029 (varies)(Base Defense: 315-342)
 Required Level: 53
 Required Strength: 140
@@ -1076,7 +1076,7 @@ Gem Socket (3)
 --enditem--
 
 --startitem--
-Unique,Corpsemourn,Ornate Plate
+Unique,Corpsemourn,Ornate Plate,Exceptional Unique Armor
 Defense: 1127-1262 (varies)(Base Defense: 417-450)
 Required Level: 55
 Required Strength: 170
@@ -1092,7 +1092,7 @@ Cold Resist +35%
 --enditem--
 
 --startitem--
-Unique,The Gnasher,Hand Axe
+Unique,The Gnasher,Hand Axe,Normal Unique Axes
 One-Hand Damage: (4-5) To (9-10) (6.5-7.5 Avg)
 Required Level: 5
 Durability: 28
@@ -1105,7 +1105,7 @@ Base Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Deathspade,Axe
+Unique,Deathspade,Axe,Normal Unique Axes
 One-Hand Damage: 14 To (17-18) (15.5-16 Avg)
 Required Level: 9
 Required Strength: 32
@@ -1120,7 +1120,7 @@ Hit Blinds Target*
 --enditem--
 
 --startitem--
-Unique,Bladebone,Double Axe
+Unique,Bladebone,Double Axe,Normal Unique Axes
 One-Hand Damage: (6-7) To (16-19) (11-13 Avg)
 Required Level: 15
 Required Strength: 43
@@ -1136,7 +1136,7 @@ Adds 8-12 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Skull Splitter,Military Pick
+Unique,Skull Splitter,Military Pick,Normal Unique Axes
 One-Hand Damage: (11-14) To (17-22) (14-18 Avg)
 Required Level: 21
 Required Strength: 49
@@ -1153,7 +1153,7 @@ Regenerate Mana 20%
 --enditem--
 
 --startitem--
-Unique,Rakescar,War Axe
+Unique,Rakescar,War Axe,Normal Unique Axes
 One-Hand Damage: (17-25) To (31-45) (24-35 Avg)
 Required Level: 27
 Required Strength: 67
@@ -1168,7 +1168,7 @@ Poison resist +50%
 --enditem--
 
 --startitem--
-Unique,Axe of Fechmar,Large Axe
+Unique,Axe of Fechmar,Large Axe,Normal Unique Axes
 Two-Hand Damage: (10-11) To (22-24) (16-17.5 Avg)
 Required Level: 8
 Required Strength: 35
@@ -1182,7 +1182,7 @@ Cold Resist +50%
 --enditem--
 
 --startitem--
-Unique,Goreshovel,Broad Axe
+Unique,Goreshovel,Broad Axe,Normal Unique Axes
 Two-Hand Damage: (14-15) To (34-36) (24-25.5 Avg)
 Required Level: 14
 Required Strength: 48
@@ -1197,7 +1197,7 @@ Base Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,The Chieftain,Battle Axe
+Unique,The Chieftain,Battle Axe,Normal Unique Axes
 Two-Hand Damage: 24 To 64 (44 Avg)
 Required Level: 19
 Required Strength: 54
@@ -1212,7 +1212,7 @@ All Resistances +10-20 (varies)
 --enditem--
 
 --startitem--
-Unique,Brainhew,Great Axe
+Unique,Brainhew,Great Axe,Normal Unique Axes
 Two-Hand Damage: (27-30) To (45-54) (36-42 Avg)
 Required Level: 25
 Required Strength: 63
@@ -1229,7 +1229,7 @@ Adds 15-35 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Humongous,Giant Axe
+Unique,Humongous,Giant Axe,Normal Unique Axes
 Two-Hand Damage: (47-56) To (96-124) (71.5-90 Avg)
 Required Level: 29
 Required Strength: 84
@@ -1244,7 +1244,7 @@ Requirements 20%*
 --enditem--
 
 --startitem--
-Unique,Djinn Slayer,Ataghan
+Unique,Djinn Slayer,Ataghan,Elite Unique Swords
 One-Hand Damage: (75-88) To (133-156) (104-122 Avg)
 Required Level: 65
 Required Strength: 138
@@ -1263,7 +1263,7 @@ Socketed (1-2) (varies)
 --enditem--
 
 --startitem--
-Unique,Bloodmoon,Elegant Blade
+Unique,Bloodmoon,Elegant Blade,Elite Unique Swords
 One-Hand Damage: (102-118) To (139-162) (120.5-140 Avg)
 Required Level: 61
 Required Strength: 109
@@ -1279,7 +1279,7 @@ Level 15 Blood Golem (9 charges)
 --enditem--
 
 --startitem--
-Unique,Lightsabre,Phase Blade
+Unique,Lightsabre,Phase Blade,Elite Unique Swords
 One-Hand Damage: (87-103) To (117-135) (102-119 Avg)
 Required Level: 58
 Required Strength: 25
@@ -1299,7 +1299,7 @@ Lightning Absorb 25%
 --enditem--
 
 --startitem--
-Unique,Azurewrath,Phase Blade
+Unique,Azurewrath,Phase Blade,Elite Unique Swords
 One-Hand Damage: (102-114) To (115-129) (108.5-121.5 Avg)
 Required Level: 85
 Required Strength: 25
@@ -1318,7 +1318,7 @@ Level 10-13 Sanctuary Aura When Equipped (varies)
 --enditem--
 
 --startitem--
-Unique,Frostwind,Cryptic Sword
+Unique,Frostwind,Cryptic Sword,Elite Unique Swords
 One-Hand Damage: (14-16) To (215-254) (114.5-135 Avg)
 Required Level: 70
 Required Strength: 99
@@ -1335,7 +1335,7 @@ Half Freeze Duration
 --enditem--
 
 --startitem--
-Unique,Flamebellow,Balrog Blade
+Unique,Flamebellow,Balrog Blade,Elite Unique Swords
 One-Hand Damage: (40-51) To (202-255) (121-153 Avg)
 Two-Hand Damage: (148-187) To (318-401) (233-294 Avg)
 Required Level: 71
@@ -1354,7 +1354,7 @@ Fire Absorb 20-30% (varies)
 --enditem--
 
 --startitem--
-Unique,Doombringer,Champion Sword
+Unique,Doombringer,Champion Sword,Elite Unique Swords
 One-Hand Damage: (97-114) To (251-289) (174-201.5 Avg)
 Two-Hand Damage: (228-278) To (332-390) (280-334 Avg)
 Required Level: 69
@@ -1372,7 +1372,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,The Grandfather,Colossus Blade
+Unique,The Grandfather,Colossus Blade,Elite Unique Swords
 One-Hand Damage: (62-87) To (164-474) (113-280.5 Avg)
 Two-Hand Damage: (145-203) To (289-649) (217-426 Avg)
 Required Level: 81
@@ -1389,7 +1389,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Dark Clan Crusher,Cudgel
+Unique,Dark Clan Crusher,Cudgel,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 17 To 61 (39 Avg)
 Required Level: 34
 Required Strength: 25
@@ -1406,7 +1406,7 @@ Base Weapon Speed: [-10]
 --enditem--
 
 --startitem--
-Unique,Fleshrender,Barbed Club
+Unique,Fleshrender,Barbed Club,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: (64-74) To (107-125) (85.5-99.5 Avg)
 Required Level: 38
 Required Strength: 30
@@ -1425,7 +1425,7 @@ Prevent Monster Heal
 --enditem--
 
 --startitem--
-Unique,Sureshrill Frost,Flanged Mace
+Unique,Sureshrill Frost,Flanged Mace,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: (42-47) To (67-74) (54.5-60.5 Avg)
 Required Level: 39
 Required Strength: 61
@@ -1442,7 +1442,7 @@ Cannot Be Frozen
 --enditem--
 
 --startitem--
-Unique,Moonfall,Jagged Star
+Unique,Moonfall,Jagged Star,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: (54-60) To (83-92) (68.5-76 Avg)
 Required Level: 42
 Required Strength: 74
@@ -1460,7 +1460,7 @@ Magic Damage Reduced By 9-12 (varies)
 --enditem--
 
 --startitem--
-Unique,Baezil's Vortex,Knout
+Unique,Baezil's Vortex,Knout,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: (33-39) To (91-105) (62-72 Avg)
 Required Level: 45
 Required Strength: 82
@@ -1479,7 +1479,7 @@ Lightning Resist +25%
 --enditem--
 
 --startitem--
-Unique,Earthshaker,Battle Hammer
+Unique,Earthshaker,Battle Hammer,Exceptional Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 98 To 162 (130 Avg)
 Required Level: 43
 Required Strength: 100
@@ -1496,7 +1496,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Bloodtree Stump,War Club
+Unique,Bloodtree Stump,War Club,Exceptional Unique Mace Classes: Maces and Mauls
 Two-Hand Damage: (148-169) To (218-249) (183-209 Avg)
 Required Level: 48
 Required Strength: 124
@@ -1513,7 +1513,7 @@ All Resistances +20
 --enditem--
 
 --startitem--
-Unique,The Gavel Of Pain,Martel de Fer
+Unique,The Gavel Of Pain,Martel de Fer,Exceptional Unique Mace Classes: Maces and Mauls
 Two-Hand Damage: (152-170) To (257-287) (204.5-228 Avg)
 Required Level: 45
 Required Strength: 169
@@ -1530,7 +1530,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Bane Ash,Short Staff
+Unique,Bane Ash,Short Staff,Normal Unique Staves
 Two-Hand Damage: 1 To (7-8) (4-4.5 Avg)
 Required Level: 5
 Durability: 20
@@ -1547,7 +1547,7 @@ Adds 4-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Serpent Lord,Long Staff
+Unique,Serpent Lord,Long Staff,Normal Unique Staves
 Two-Hand Damage: 2 To (10-11) (6-6.5 Avg)
 Required Level: 9
 Durability: 30
@@ -1564,7 +1564,7 @@ Poison Resist +50%
 --enditem--
 
 --startitem--
-Unique,Spire of Lazarus,Gnarled Staff
+Unique,Spire of Lazarus,Gnarled Staff,Normal Unique Staves
 Two-Hand Damage: 4 To 12 (8 Avg)
 Required Level: 18
 Durability: 35
@@ -1583,7 +1583,7 @@ Lightning Resist +75%
 --enditem--
 
 --startitem--
-Unique,The Salamander,Battle Staff
+Unique,The Salamander,Battle Staff,Normal Unique Staves
 Two-Hand Damage: 6 To 13 (9.5 Avg)
 Required Level: 21
 Durability: 40
@@ -1599,7 +1599,7 @@ Fire Resist +30%
 --enditem--
 
 --startitem--
-Unique,The Iron Jang Bong,War Staff
+Unique,The Iron Jang Bong,War Staff,Normal Unique Staves
 Two-Hand Damage: 24 To 56 (40 Avg)
 Required Level: 28
 Durability: 50
@@ -1617,7 +1617,7 @@ Base Weapon Speed: [20]
 --enditem--
 
 --startitem--
-Unique,Nord's Tenderizer,Truncheon
+Unique,Nord's Tenderizer,Truncheon,Elite Unique Maces
 One-Hand Damage: (129-150) To (159-184) (144-167 Avg)
 Required Level: 68
 Required Strength: 88
@@ -1636,7 +1636,7 @@ Level 16 Blizzard (12 charges)
 --enditem--
 
 --startitem--
-Unique,Demon Limb,Tyrant Club
+Unique,Demon Limb,Tyrant Club,Elite Unique Maces
 One-Hand Damage: (89-105) To (162-191) (125.5-148 Avg)
 Required Level: 63
 Required Strength: 133
@@ -1654,7 +1654,7 @@ Repairs 1 Durability in 20 Seconds
 --enditem--
 
 --startitem--
-Unique,Baranar's Star,Devil Star
+Unique,Baranar's Star,Devil Star,Elite Unique Maces
 One-Hand Damage: 129 To 159 (144 Avg)
 Required Level: 65
 Required Strength: 153
@@ -1674,7 +1674,7 @@ Adds 1-200 Cold Damage, Duration 0-7 sec.
 --enditem--
 
 --startitem--
-Unique,Horizon's Tornado,Scourge
+Unique,Horizon's Tornado,Scourge,Elite Unique Maces
 One-Hand Damage: (9-11) To (264-304) (136.5-157.5 Avg)
 Required Level: 64
 Required Strength: 100
@@ -1691,7 +1691,7 @@ Requirements -20%
 --enditem--
 
 --startitem--
-Unique,Stormlash,Scourge
+Unique,Stormlash,Scourge,Elite Unique Maces
 One-Hand Damage: (10-12) To (272-320) (141-166 Avg)
 Required Level: 82
 Required Strength: 125
@@ -1711,7 +1711,7 @@ Attacker Takes Lightning Damage of 30
 --enditem--
 
 --startitem--
-Unique,Stone Crusher,Legendary Mallet
+Unique,Stone Crusher,Legendary Mallet,Elite Unique Maces
 One-Hand Damage: (190-210) To (231-256) (210.5-233 Avg)
 Required Level: 68
 Required Strength: 189
@@ -1728,7 +1728,7 @@ Damage +10-30 (varies)
 --enditem--
 
 --startitem--
-Unique,Schaefer's Hammer,Legendary Mallet
+Unique,Schaefer's Hammer,Legendary Mallet,Elite Unique Maces
 One-Hand Damage: (100-114) To (124-338) (112-226 Avg)
 Required Level: 79
 Required Strength: 189
@@ -1748,7 +1748,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Windhammer,Ogre Maul
+Unique,Windhammer,Ogre Maul,Elite Unique Maces
 Two-Hand Damage: (215-254) To (296-349) (255.5-301.5 Avg)
 Required Level: 68
 Required Strength: 225
@@ -1763,7 +1763,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Earth Shifter,Thunder Maul
+Unique,Earth Shifter,Thunder Maul,Elite Unique Maces
 Two-Hand Damage: (115-132) To (630-720) (372.5-426 Avg)
 Required Level: 69
 Required Strength: 253
@@ -1781,7 +1781,7 @@ Level 14 Volcano (30 charges)
 --enditem--
 
 --startitem--
-Unique,The Cranium Basher,Thunder Maul
+Unique,The Cranium Basher,Thunder Maul,Elite Unique Maces
 Two-Hand Damage: (119-132) To (560-632) (339.5-382 Avg)
 Required Level: 87
 Required Strength: 253
@@ -1800,7 +1800,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Shadow Killer,Battle Cestus
+Unique,Shadow Killer,Battle Cestus,Unique Assassin Items
 Damage: (145-172) To (170-201) (157.5-186.5 Avg)
 Required Level: 78
 Required Strength: 100
@@ -1819,7 +1819,7 @@ Ethereal (Cannot Be Repaired)*
 --enditem--
 
 --startitem--
-Unique,Bartuc's Cut-Throat,Greater Talons
+Unique,Bartuc's Cut-Throat,Greater Talons,Unique Assassin Items
 Damage: (77-88) To (137-155) (107-121.5 Avg)
 Required Level: 42
 Required Strength: 79
@@ -1840,7 +1840,7 @@ Adds 25-50 Damage
 --enditem--
 
 --startitem--
-Unique,Jade Talon,Wrist Sword
+Unique,Jade Talon,Wrist Sword,Unique Assassin Items
 Damage: (98-115) To (130-153) (114-134 Avg)
 Required Level: 66
 Required Strength: 105
@@ -1858,7 +1858,7 @@ All Resistances +40-50 (varies)
 --enditem--
 
 --startitem--
-Unique,Firelizard's Talons,Feral Claws
+Unique,Firelizard's Talons,Feral Claws,Unique Assassin Items
 Damage: (66-81) To (159-196) (112.5-138.5 Avg)
 Required Level: 67
 Required Strength: 113
@@ -1877,7 +1877,7 @@ Fire Resist +40-70% (varies)
 --enditem--
 
 --startitem--
-Unique,Biggin's Bonnet,Cap
+Unique,Biggin's Bonnet,Cap,Normal Unique Helms
 Defense: 17-19 (varies)(Base Defense: 3-5)
 Required Level: 3
 Durability: 12
@@ -1890,7 +1890,7 @@ Durability: 12
 --enditem--
 
 --startitem--
-Unique,Tarnhelm,Skull Cap
+Unique,Tarnhelm,Skull Cap,Normal Unique Helms
 Defense: 8-11 (varies)
 Required Level: 15
 Required Strength: 15
@@ -1902,7 +1902,7 @@ Durability: 18
 --enditem--
 
 --startitem--
-Unique,Coif of Glory,Helm
+Unique,Coif of Glory,Helm,Normal Unique Helms
 Defense: 25-28 (varies)(Base Defense: 15-18)
 Required Level: 14
 Required Strength: 26
@@ -1916,7 +1916,7 @@ Lightning Resist +15%
 --enditem--
 
 --startitem--
-Unique,Duskdeep,Full Helm
+Unique,Duskdeep,Full Helm,Normal Unique Helms
 Defense: 45-60 (varies)(Base Defense: 23-26)
 Required Level: 17
 Required Strength: 41
@@ -1931,7 +1931,7 @@ All Resistances +15
 --enditem--
 
 --startitem--
-Unique,Howltusk,Great Helm
+Unique,Howltusk,Great Helm,Normal Unique Helms
 Defense: 64  (Base Defense: 30-35)
 Required Level: 25
 Required Strength: 63
@@ -1946,7 +1946,7 @@ Hit Causes Monster To Flee 25%
 --enditem--
 
 --startitem--
-Unique,The Face of Horror,Mask
+Unique,The Face of Horror,Mask,Normal Unique Helms
 Defense: 34-52 (varies)(Base Defense: 9-27)
 Required Level: 20
 Required Strength: 23
@@ -1960,7 +1960,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Undead Crown,Crown
+Unique,Undead Crown,Crown,Normal Unique Helms
 Defense: 99-113 (varies)(Base Defense: 25-45)
 Required Level: 29
 Required Strength: 55
@@ -1977,7 +1977,7 @@ Poison Resist +50%
 --enditem--
 
 --startitem--
-Unique,Wormskull,Bone Helm
+Unique,Wormskull,Bone Helm,Normal Unique Helms
 Defense: 33-36 (varies)
 Required Level: 21
 Required Strength: 25
@@ -1991,7 +1991,7 @@ Poison Resist +25%
 --enditem--
 
 --startitem--
-Unique,Bloodletter,Gladius
+Unique,Bloodletter,Gladius,Exceptional Unique Swords
 One-Hand Damage: 31 To 97 (64 Avg)
 Required Level: 30
 Required Strength: 25
@@ -2009,7 +2009,7 @@ Adds 12-45 Damage
 --enditem--
 
 --startitem--
-Unique,Coldsteel Eye,Cutlass
+Unique,Coldsteel Eye,Cutlass,Exceptional Unique Swords
 One-Hand Damage: (24-28) To (63-73) (43.5-50.5 Avg)
 Required Level: 31
 Required Strength: 25
@@ -2026,7 +2026,7 @@ Hit Blinds Target
 --enditem--
 
 --startitem--
-Unique,Hexfire,Shamshir
+Unique,Hexfire,Shamshir,Exceptional Unique Swords
 One-Hand Damage: (59-61) To (97-102) (78-81.5 Avg)
 Required Level: 33
 Required Strength: 58
@@ -2044,7 +2044,7 @@ Fire Resist +25%
 --enditem--
 
 --startitem--
-Unique,Blade Of Ali Baba,Tulwar
+Unique,Blade Of Ali Baba,Tulwar,Exceptional Unique Swords
 One-Hand Damage: (25-35) To (56-77) (40.5-56 Avg)
 Required Level: 35
 Required Strength: 70
@@ -2061,7 +2061,7 @@ Socketed (2)
 --enditem--
 
 --startitem--
-Unique,Ginther's Rift,Dimensional Blade
+Unique,Ginther's Rift,Dimensional Blade,Exceptional Unique Swords
 One-Hand Damage:  (26-32) To (70-87) (48-59.5 Avg)
 Required Level: 37
 Required Strength: 85
@@ -2077,7 +2077,7 @@ Repairs 1 Durability in 5 Seconds
 --enditem--
 
 --startitem--
-Unique,Headstriker,Battle Sword
+Unique,Headstriker,Battle Sword,Exceptional Unique Swords
 One-Hand Damage: 40 To (86-184) (63-112 Avg)
 Required Level: 39
 Required Strength: 92
@@ -2093,7 +2093,7 @@ Prevent Monster Heal
 --enditem--
 
 --startitem--
-Unique,Plague Bearer,Rune Sword
+Unique,Plague Bearer,Rune Sword,Exceptional Unique Swords
 One-Hand Damage: 35 To 150 (92.5 Avg)
 Required Level: 41
 Required Strength: 103
@@ -2110,7 +2110,7 @@ Poison Resist +45%
 --enditem--
 
 --startitem--
-Unique,The Atlantean,Ancient Sword
+Unique,The Atlantean,Ancient Sword,Exceptional Unique Swords
 One-Hand Damage: (54-63) To (129-150) (91.5-106.5 Avg)
 Required Level: 42
 Required Strength: 127
@@ -2128,7 +2128,7 @@ Base Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Crainte Vomir,Espandon
+Unique,Crainte Vomir,Espandon,Exceptional Unique Swords
 One-Hand Damage: (20-24) To (67-78) (43.5-51 Avg)
 Two-Hand Damage: (46-54) To (104-120) (75-87 Avg)
 Required Level: 42
@@ -2146,7 +2146,7 @@ Damage Reduced By 10%
 --enditem--
 
 --startitem--
-Unique,Bing Sz Wang,Dacian Falx
+Unique,Bing Sz Wang,Dacian Falx,Exceptional Unique Swords
 One-Hand Damage: (29-33) To (69-78) (49-55.5 Avg)
 Two-Hand Damage: (59-67) To (140-158) (99.5-112.5 Avg)
 Required Level: 43
@@ -2164,7 +2164,7 @@ Requirements -30%
 --enditem--
 
 --startitem--
-Unique,The Vile Husk,Tusk Sword
+Unique,The Vile Husk,Tusk Sword,Exceptional Unique Swords
 One-Hand Damage: (25-30) To (92-111) (58.5-70.5 Avg)
 Two-Hand Damage: (47-57) To (145-174) (96-115.5 Avg)
 Required Level: 44
@@ -2183,7 +2183,7 @@ Poison Resist +50%
 --enditem--
 
 --startitem--
-Unique,Cloudcrack,Gothic Sword
+Unique,Cloudcrack,Gothic Sword,Exceptional Unique Swords
 One-Hand Damage: (35-42) To (100-120) (67.5-81 Avg)
 Two-Hand Damage: (97-117) To (150-180) (123.5-148.5 Avg)
 Required Level: 45
@@ -2204,7 +2204,7 @@ Attacker Takes Lightning Damage Of 15
 --enditem--
 
 --startitem--
-Unique,Todesfaelle Flamme,Zweihander
+Unique,Todesfaelle Flamme,Zweihander,Exceptional Unique Swords
 One-Hand Damage: (41-49) To (77-91) (59-70 Avg)
 Two-Hand Damage: (63-75) To (118-140) (90.5-107.5 Avg)
 Durability: 50
@@ -2223,7 +2223,7 @@ Fire Resist +40%
 --enditem--
 
 --startitem--
-Unique,Swordguard,Executioner Sword
+Unique,Swordguard,Executioner Sword,Exceptional Unique Swords
 One-Hand Damage: (64-67) To (108-112) (86-89.5 Avg)
 Two-Hand Damage: (126-131) To (216-224) (171-177.5 Avg)
 Required Level: 48
@@ -2244,7 +2244,7 @@ All Resistances +10-20 (varies)
 --enditem--
 
 --startitem--
-Unique,Spineripper,Poignard
+Unique,Spineripper,Poignard,Exceptional Unique Daggers
 One-Hand Damage: (33-35) To (81-88) (57-61.5 Avg)
 Required Level: 32
 Required Strength:  25
@@ -2262,7 +2262,7 @@ Ignore Target's Defense
 --enditem--
 
 --startitem--
-Unique,Heart Carver,Rondel
+Unique,Heart Carver,Rondel,Exceptional Unique Daggers
 One-Hand Damage: (44-49) To (110-123) (77-86 Avg)
 Required Level: 36
 Required Strength: 25
@@ -2280,7 +2280,7 @@ Ignore Target's Defense
 --enditem--
 
 --startitem--
-Unique,Blackbog's Sharp,Cinquedeas
+Unique,Blackbog's Sharp,Cinquedeas,Exceptional Unique Daggers
 One-Hand Damage: 30 To 76 (53 Avg)
 Required Level 38
 Required Strength: 25
@@ -2299,7 +2299,7 @@ Slows Target By 50%
 --enditem--
 
 --startitem--
-Unique,Stormspike,Stiletto
+Unique,Stormspike,Stiletto,Exceptional Unique Daggers
 One-Hand Damage: 47 To 90 (68.5 Avg)
 Required Level 41
 Required Strength: 47
@@ -2315,7 +2315,7 @@ Attacker Takes Lightning Damage of 20
 --enditem--
 
 --startitem--
-Unique,Peasant Crown,War Hat
+Unique,Peasant Crown,War Hat,Exceptional Unique Helms
 Defense: 108 (Base Defense: 45-53)
 Required Level: 28
 Required Strength: 20
@@ -2330,7 +2330,7 @@ Replenish Life +6-12 (varies)
 --enditem--
 
 --startitem--
-Unique,Rockstopper,Sallet
+Unique,Rockstopper,Sallet,Exceptional Unique Helms
 Defense: 163-201 (varies)(Base Defense: 52-62)
 Required Level: 31
 Required Strength: 43
@@ -2346,7 +2346,7 @@ Lightning Resist +20-40% (varies)
 --enditem--
 
 --startitem--
-Unique,Stealskull,Casque
+Unique,Stealskull,Casque,Exceptional Unique Helms
 Defense: 219-248 (varies)(Base Defense 63-72)
 Required Level: 35
 Required Strength: 59
@@ -2361,7 +2361,7 @@ Durability: 24
 --enditem--
 
 --startitem--
-Unique,Darksight Helm,Basinet
+Unique,Darksight Helm,Basinet,Exceptional Unique Helms
 Defense: (77-273) - (86-282) (varies)(Base Defense: 75-84)
 Required Level: 38
 Required Strength: 82
@@ -2377,7 +2377,7 @@ Fire Resist +20-40% (varies)
 --enditem--
 
 --startitem--
-Unique,Valkyrie Wing,Winged Helm
+Unique,Valkyrie Wing,Winged Helm,Exceptional Unique Helms
 Defense: 247-297 (varies)(Base Defense: 85-98)
 Required Level: 44
 Required Strength: 115
@@ -2391,7 +2391,7 @@ Durability: 40
 --enditem--
 
 --startitem--
-Unique,Blackhorn's Face,Death Mask
+Unique,Blackhorn's Face,Death Mask,Exceptional Unique Helms
 Defense: 243-278 (varies)(Base Defense: 54-86)
 Required Level: 41
 Required Strength: 55
@@ -2406,7 +2406,7 @@ Lightning Resist +15%
 --enditem--
 
 --startitem--
-Unique,Crown of Thieves,Grand Crown
+Unique,Crown of Thieves,Grand Crown,Exceptional Unique Helms
 Defense: 296-342 (varies)(Base Defense: 78-113)
 Required Level: 49
 Required Strength: 103
@@ -2422,7 +2422,7 @@ Fire Resist +33%
 --enditem--
 
 --startitem--
-Unique,Vampire Gaze,Grim Helm
+Unique,Vampire Gaze,Grim Helm,Exceptional Unique Helms
 Defense: 252 (Base Defense: 60-125)
 Required Level: 41
 Required Strength: 58
@@ -2438,7 +2438,7 @@ Magic Damage Reduced By 10-15 (varies)
 --enditem--
 
 --startitem--
-Unique,Blackoak Shield,Luna
+Unique,Blackoak Shield,Luna,Elite Unique Shields
 Defense: 322-372 (varies)(Base Defense: 108-123)
 Required Level: 61
 Required Strength: 100
@@ -2456,7 +2456,7 @@ Half Freeze Duration
 --enditem--
 
 --startitem--
-Unique,Stormshield,Monarch
+Unique,Stormshield,Monarch,Elite Unique Shields
 Defense: (136-504) - (151-519) (varies)(Base Defense: 133-148)
 Required Level: 73
 Required Strength: 156
@@ -2475,7 +2475,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Spike Thorn,Blade Barrier
+Unique,Spike Thorn,Blade Barrier,Elite Unique Shields
 Defense: 360-410 (varies)(Base Defense: 147-163)
 Required Level: 70
 Required Strength: 118
@@ -2491,7 +2491,7 @@ Socketed (1)
 --enditem--
 
 --startitem--
-Unique,Medusa's Gaze,Aegis
+Unique,Medusa's Gaze,Aegis,Elite Unique Shields
 Defense: 405-453 (varies)(Base Defense: 145-161)
 Required Level: 76
 Required Strength: 219
@@ -2508,7 +2508,7 @@ Cold Resist +40-80% (varies)
 --enditem--
 
 --startitem--
-Unique,Head Hunter's Glory,Troll Nest
+Unique,Head Hunter's Glory,Troll Nest,Elite Unique Shields
 Defense: 478-593 (varies)(Base Defense: 158-173)
 Required Level: 75
 Required Strength: 106
@@ -2525,7 +2525,7 @@ Socketed (1-3) (varies)
 --enditem--
 
 --startitem--
-Unique,Spirit Ward,Ward
+Unique,Spirit Ward,Ward,Elite Unique Shields
 Defense: 393-478 (varies)(Base Defense: 153-170)
 Required Level: 68
 Required Strength: 185
@@ -2541,7 +2541,7 @@ All Resistances +30-40 (varies)
 --enditem--
 
 --startitem--
-Unique,Rixot's Keen,Short Sword
+Unique,Rixot's Keen,Short Sword,Normal Unique Swords
 One-Hand Damage: 9 To 14 (11.5 Avg)
 Required Level: 2
 Durability: 24
@@ -2556,7 +2556,7 @@ Base Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Blood Crescent,Scimitar
+Unique,Blood Crescent,Scimitar,Normal Unique Swords
 One-Hand Damage: 3 To (9-10) (6-6.5 Avg)
 Required Level: 7
 Required Dexterity: 21
@@ -2573,7 +2573,7 @@ All Resistances +15
 --enditem--
 
 --startitem--
-Unique,Skewer of Krintiz,Sabre
+Unique,Skewer of Krintiz,Sabre,Normal Unique Swords
 One-Hand Damage: 7 To 19 (13 Avg)
 Required Level: 10
 Required Strength: 25
@@ -2590,7 +2590,7 @@ Ignore Target's Defense
 --enditem--
 
 --startitem--
-Unique,Gleamscythe,Falchion
+Unique,Gleamscythe,Falchion,Normal Unique Swords
 One-Hand Damage: (14-18) To (27-34) (20.5-26 Avg)
 Required Level: 13
 Required Strength: 33
@@ -2606,7 +2606,7 @@ Adds 3-5 Cold Damage - 2 Second Duration
 --enditem--
 
 --startitem--
-Unique,Griswold's Edge,Broad Sword
+Unique,Griswold's Edge,Broad Sword,Normal Unique Swords
 One-Hand Damage: (12-15) To (25-30) (18.5-22.5 Avg)
 Required Level: 17
 Required Strength: 48
@@ -2622,7 +2622,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Hellplague,Long Sword
+Unique,Hellplague,Long Sword,Normal Unique Swords
 One-Hand Damage: 5 To (32-34) (18.5-19.5 Avg)
 Required Level: 22
 Required Strength: 55
@@ -2639,7 +2639,7 @@ Adds 28-56 Poison Damage Over 6 Seconds
 --enditem--
 
 --startitem--
-Unique,Culwen's Point,War Sword
+Unique,Culwen's Point,War Sword,Normal Unique Swords
 One-Hand Damage: (13-14) To (34-36) (23.5-25 Avg)
 Required Level: 29
 Required Strength: 71
@@ -2656,7 +2656,7 @@ Poison Length Reduced By 50%
 --enditem--
 
 --startitem--
-Unique,Shadowfang,Two-Handed Sword
+Unique,Shadowfang,Two-Handed Sword,Normal Unique Swords
 One-Hand Damage: 4 To 18 (11 Avg)
 Two-Hand Damage: 16 To 34 (25 Avg)
 Required Level: 12
@@ -2674,7 +2674,7 @@ Cold Resist 20%
 --enditem--
 
 --startitem--
-Unique,Soulflay,Claymore
+Unique,Soulflay,Claymore,Normal Unique Swords
 One-Hand Damage: (8-10) To (20-24) (14-17 Avg)
 Two-Hand Damage: (22-26) To (51-60) (36-43 Avg)
 Required Level: 19
@@ -2690,7 +2690,7 @@ All Resistances +5
 --enditem--
 
 --startitem--
-Unique,Kinemil's Awl,Giant Sword
+Unique,Kinemil's Awl,Giant Sword,Normal Unique Swords
 One-Hand Damage: (5-6) To (28-32) (16.5-19 Avg)
 Two-Hand Damage: (16-18) To (50-56) (33-37 Avg)
 Required Level: 23
@@ -2707,7 +2707,7 @@ Adds 6-(20-40) Fire Damage (varies)
 --enditem--
 
 --startitem--
-Unique,Blacktongue,Bastard Sword
+Unique,Blacktongue,Bastard Sword,Normal Unique Swords
 One-Hand Damage: (10-11) To (28-30) (19-20.5 Avg)
 Two-Hand Damage: (30-32) To (42-44) (36-38 Avg)
 Required Level: 26
@@ -2723,7 +2723,7 @@ Poison Resist +50%
 --enditem--
 
 --startitem--
-Unique,Ripsaw,Flamberge
+Unique,Ripsaw,Flamberge,Normal Unique Swords
 One-Hand Damage: (16-18) To (42-45) (29-31.5 Avg)
 Two-Hand Damage: (23-26) To (61-67) (42-46.5 Avg)
 Required Level: 26
@@ -2739,7 +2739,7 @@ Base Weapon Speed: [-10]
 --enditem--
 
 --startitem--
-Unique,The Patriarch,Great Sword
+Unique,The Patriarch,Great Sword,Normal Unique Swords
 One-Hand Damage: (24-26) To (40-44) (32-35 Avg)
 Two-Hand Damage: (50-55) To (84-92) (67-73.5 Avg)
 Required Level: 29
@@ -2757,7 +2757,7 @@ Damage Reduced By 3
 --enditem--
 
 --startitem--
-Unique,Lenymo,Sash
+Unique,Lenymo,Sash,Unique Normal Belts
 Defense: 2
 Required Level: 7
 Durability: 12
@@ -2770,7 +2770,7 @@ All Resistances +5
 --enditem--
 
 --startitem--
-Unique,Snakecord,Light Belt
+Unique,Snakecord,Light Belt,Unique Normal Belts
 Defense: 14-15 (varies)(Base Defense: 3)
 Required Level: 12
 Durability: 14
@@ -2785,7 +2785,7 @@ Poison Length Reduced By 50%
 --enditem--
 
 --startitem--
-Unique,Nightsmoke,Belt
+Unique,Nightsmoke,Belt,Unique Normal Belts
 Defense: 22-24 (varies)(Base Defense: 5)
 Required Level: 20
 Required Strength: 25
@@ -2801,7 +2801,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Goldwrap,Heavy Belt
+Unique,Goldwrap,Heavy Belt,Unique Normal Belts
 Defense: 34-36 (varies)(Base Defense: 6)
 Required Level: 27
 Required Strength: 45
@@ -2817,7 +2817,7 @@ Durability: 18
 --enditem--
 
 --startitem--
-Unique,Bladebuckle,Plated Belt
+Unique,Bladebuckle,Plated Belt,Unique Normal Belts
 Defense: 51-54 (varies)(Base Defense: 8-11)
 Required Level: 29
 Required Strength: 60
@@ -2834,7 +2834,7 @@ Attacker Takes Damage of 8*
 --enditem--
 
 --startitem--
-Unique,Pluckeye,Short Bow
+Unique,Pluckeye,Short Bow,Normal Unique Bows
 Two-Hand Damage: 2 To 8 (5 Avg)
 Required Level: 7
 Required Dexterity: 15
@@ -2849,7 +2849,7 @@ Base Weapon Speed: [5]
 --enditem--
 
 --startitem--
-Unique,Witherstring,Hunter's Bow
+Unique,Witherstring,Hunter's Bow,Normal Unique Bows
 Two-Hand Damage: (3-4) To (11-12) (7-8 Avg)
 Required Level: 13
 Required Dexterity: 28
@@ -2863,7 +2863,7 @@ Adds 1-3 Damage
 --enditem--
 
 --startitem--
-Unique,Raven Claw,Long Bow
+Unique,Raven Claw,Long Bow,Normal Unique Bows
 Two-Hand Damage: (4-5) To (16-17) (10-11 Avg)
 Required Level: 15
 Required Strength: 22
@@ -2878,7 +2878,7 @@ Fires Explosive Arrows [Level 3]
 --enditem--
 
 --startitem--
-Unique,Rogue's Bow,Composite Bow
+Unique,Rogue's Bow,Composite Bow,Normal Unique Bows
 Two-Hand Damage: (5-6) To (11-12) (8-9 Avg)
 Required Level: 20
 Required Strength: 25
@@ -2894,7 +2894,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Stormstrike,Short Battle Bow
+Unique,Stormstrike,Short Battle Bow,Normal Unique Bows
 Two-Hand Damage: (8-9) To (18-20) (13-14.5 Avg)
 Required Level: 25
 Required Strength: 30
@@ -2910,7 +2910,7 @@ Lightning Resist +25%
 --enditem--
 
 --startitem--
-Unique,Wizendraw,Long Battle Bow
+Unique,Wizendraw,Long Battle Bow,Normal Unique Bows
 Two-Hand Damage: 5 To (30-32) (17.5-18.5 Avg)
 Required Level: 26
 Required Strength: 40
@@ -2928,7 +2928,7 @@ Cold Resist 26%
 --enditem--
 
 --startitem--
-Unique,Hellclap,Short War Bow
+Unique,Hellclap,Short War Bow,Normal Unique Bows
 Two-Hand Damage: (10-11) To (23-26) (16.5-18.5 Avg)
 Required Level: 27
 Required Strength: 35
@@ -2945,7 +2945,7 @@ Fire Resist +40%
 --enditem--
 
 --startitem--
-Unique,Blastbark,Long War Bow
+Unique,Blastbark,Long War Bow,Normal Unique Bows
 Two-Hand Damage: (5-6) To (39-52) (22-29 Avg)
 Required Level: 28
 Required Strength: 50
@@ -2960,7 +2960,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Greyform,Quilted Armor
+Unique,Greyform,Quilted Armor,Normal Unique Armor
 Defense: 28-31 (varies)(Base Defense: 8-11)
 Required Level: 7
 Required Strength: 12
@@ -2975,7 +2975,7 @@ Fire Resist 20%
 --enditem--
 
 --startitem--
-Unique,Blinkbat's Form,Leather Armor
+Unique,Blinkbat's Form,Leather Armor,Normal Unique Armor
 Defense: 39-42 (varies)(Base Defense: 14-17)
 Required Level: 12
 Required Strength: 15
@@ -2989,7 +2989,7 @@ Adds 3-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,The Centurion,Hard Leather Armor
+Unique,The Centurion,Hard Leather Armor,Normal Unique Armor
 Defense: 51-54 (varies)(Base Defense: 21-24)
 Required Level: 14
 Required Strength: 20
@@ -3006,7 +3006,7 @@ Damage Reduced By 2
 --enditem--
 
 --startitem--
-Unique,Twitchthroe,Studded Leather
+Unique,Twitchthroe,Studded Leather,Normal Unique Armor
 Defense: 57-60 (varies)(Base Defense: 32-35)
 Required Level: 16
 Required Strength: 27
@@ -3021,7 +3021,7 @@ Durability: 32
 --enditem--
 
 --startitem--
-Unique,Darkglow,Ring Mail
+Unique,Darkglow,Ring Mail,Normal Unique Armor
 Defense: 83-98 (varies)(Base Defense: 45-48)
 Required Level: 14
 Required Strength: 36
@@ -3039,7 +3039,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Hawkmail,Scale Mail
+Unique,Hawkmail,Scale Mail,Normal Unique Armor
 Defense: 109-122 (varies)(Base Defense: 57-60)
 Required Level: 15
 Required Strength: 44
@@ -3053,7 +3053,7 @@ Cannot Be Frozen
 --enditem--
 
 --startitem--
-Unique,Venom Ward,Breast Plate
+Unique,Venom Ward,Breast Plate,Normal Unique Armor
 Defense: 110-138 (varies)(Base Defense: 65-68)
 Required Level: 20
 Required Strength: 30
@@ -3067,7 +3067,7 @@ Poison Length Reduced By 50%
 --enditem--
 
 --startitem--
-Unique,Sparking Mail,Chain Mail
+Unique,Sparking Mail,Chain Mail,Normal Unique Armor
 Defense: 133-140 (varies)(Base Defense: 72-75)
 Required Level: 17
 Required Strength: 48
@@ -3080,7 +3080,7 @@ Adds 1-20 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Iceblink,Splint Mail
+Unique,Iceblink,Splint Mail,Normal Unique Armor
 Defense: 163-172 (varies)(Base Defense: 90-95)
 Required Level: 22
 Required Strength: 51
@@ -3094,7 +3094,7 @@ Magic Damage Reduced By 1
 --enditem--
 
 --startitem--
-Unique,Heavenly Garb,Light Plate
+Unique,Heavenly Garb,Light Plate,Normal Unique Armor
 Defense: 216 (Base Defense: 90-107)
 Required Level: 29
 Required Strength: 41
@@ -3109,7 +3109,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Rockfleece,Field Plate
+Unique,Rockfleece,Field Plate,Normal Unique Armor
 Defense: 212-243 (varies)(Base Defense: 101-105)
 Required Level: 28
 Required Strength: 50
@@ -3123,7 +3123,7 @@ Damage Reduced By 5
 --enditem--
 
 --startitem--
-Unique,Boneflesh,Plate Mail
+Unique,Boneflesh,Plate Mail,Normal Unique Armor
 Defense: 234-257 (varies)(Base Defense: 108-116)
 Required Level: 26
 Required Strength: 65
@@ -3136,7 +3136,7 @@ Durability: 60
 --enditem--
 
 --startitem--
-Unique,Rattlecage,Gothic Plate
+Unique,Rattlecage,Gothic Plate,Normal Unique Armor
 Defense: 328-335 (varies)(Base Defense: 128-135)
 Required Level: 29
 Required Strength: 70
@@ -3149,7 +3149,7 @@ Hit Causes Monster To Flee 40%
 --enditem--
 
 --startitem--
-Unique,Goldskin,Full Plate Mail
+Unique,Goldskin,Full Plate Mail,Normal Unique Armor
 Defense: 356-405 (varies)(Base Defense: 150-161)
 Required Level: 28
 Required Strength: 80
@@ -3163,7 +3163,7 @@ Attacker Takes Damage of 10*
 --enditem--
 
 --startitem--
-Unique,Silks of the Victor,Ancient Armor
+Unique,Silks of the Victor,Ancient Armor,Normal Unique Armor
 Defense: 468-514 (varies)(Base Defense: 218-233)
 Required Level: 28
 Required Strength: 100
@@ -3176,7 +3176,7 @@ Durability: 60
 --enditem--
 
 --startitem--
-Unique,Stoneraven,Matriarchal Spear
+Unique,Stoneraven,Matriarchal Spear,Unique Amazon Items
 Two-Hand Damage: (214-247) To (316-361) (263.5-304 Avg)
 Required Level: 64
 Required Strength: 114
@@ -3194,7 +3194,7 @@ All Resistances +30-50 (varies)
 --enditem--
 
 --startitem--
-Unique,Lycander's Flank,Ceremonial Pike
+Unique,Lycander's Flank,Ceremonial Pike,Unique Amazon Items
 Two-Hand Damage: (130-151) To (305-353) (216-252 Avg)
 Required Level: 42
 Required Strength: 115
@@ -3215,7 +3215,7 @@ Adds 25-50 Damage
 --enditem--
 
 --startitem--
-Unique,Lycander's Aim,Ceremonial Bow
+Unique,Lycander's Aim,Ceremonial Bow,Unique Amazon Items
 Two-Hand Damage: (72-82) To (152-173) (112-127.5 Avg)
 Required Level: 42
 Required Strength: 73
@@ -3235,7 +3235,7 @@ Adds 25-50 Damage
 --enditem--
 
 --startitem--
-Unique,Titan's Revenge,Ceremonial Javelin
+Unique,Titan's Revenge,Ceremonial Javelin,Unique Amazon Items
 Throw Damage: (70-79) To (185-212) (127.5-145.5 Avg)
 One-Hand Damage: (70-79) To (137-155) (103.5-117 Avg)
 Required Level: 42
@@ -3258,7 +3258,7 @@ Increased Stack Size [60]
 --enditem--
 
 --startitem--
-Unique,Thunderstroke,Matriarchal Javelin
+Unique,Thunderstroke,Matriarchal Javelin,Unique Amazon Items
 Throw Damage: (87-105) To (165-198) (126-151.5 Avg)
 One-Hand Damage: (75-90) To (135-162) (105-126 Avg)
 Required Level: 69
@@ -3279,7 +3279,7 @@ Adds 1-511 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Blood Raven's Charge,Matriarchal Bow
+Unique,Blood Raven's Charge,Matriarchal Bow,Unique Amazon Items
 Two-Hand Damage: (56-66) To (131-155) (93.5-110.5 Avg)
 Required Level: 71
 Required Strength: 87
@@ -3295,7 +3295,7 @@ Level 5 Revive (30 charges)
 --enditem--
 
 --startitem--
-Unique,The Hand of Broc,Leather Gloves
+Unique,The Hand of Broc,Leather Gloves,Normal Unique Gloves
 Defense: 14 (Base Defense: 2-3)
 Required Level: 5
 Durability: 12
@@ -3309,7 +3309,7 @@ Poison Resist +10%
 --enditem--
 
 --startitem--
-Unique,Bloodfist,Heavy Gloves
+Unique,Bloodfist,Heavy Gloves,Normal Unique Gloves
 Defense: 17-18 (varies)(Base Defense: 5-6)
 Required Level: 9
 Durability: 14
@@ -3323,7 +3323,7 @@ Durability: 14
 --enditem--
 
 --startitem--
-Unique,Chance Guards,Chain Gloves
+Unique,Chance Guards,Chain Gloves,Normal Unique Gloves
 Defense: 27-28 (varies)(Base Defense: 8-9)
 Required Level: 15
 Required Strength: 25
@@ -3338,7 +3338,7 @@ Durability: 16
 --enditem--
 
 --startitem--
-Unique,Magefist,Light Gauntlets
+Unique,Magefist,Light Gauntlets,Normal Unique Gloves
 Defense: 24-25 (varies)(Base Defense: 9-11)
 Required Level: 23
 Required Strength: 45
@@ -3353,7 +3353,7 @@ Adds 1-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Frostburn,Gauntlets
+Unique,Frostburn,Gauntlets,Normal Unique Gloves
 Defense: 47-49 (varies)(Base Defense: 12-15)
 Required Level: 29
 Required Strength: 60
@@ -3367,7 +3367,7 @@ Adds 1-6 Cold Damage, Cold Duration: 2 Seconds
 --enditem--
 
 --startitem--
-Unique,Felloak,Club
+Unique,Felloak,Club,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 1 To 10 (5.5 Avg)
 Required Level: 3
 Durability: 24
@@ -3382,7 +3382,7 @@ Fire Resist +20%
 --enditem--
 
 --startitem--
-Unique,Stoutnail,Spiked Club
+Unique,Stoutnail,Spiked Club,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 10 To 16 (13 Avg)
 Required Level: 5
 Durability: 36
@@ -3396,7 +3396,7 @@ Magic Damage Reduced By 2
 --enditem--
 
 --startitem--
-Unique,Crushflange,Mace
+Unique,Crushflange,Mace,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 4 To (15-16) (9.5-10 Avg)
 Required Level: 9
 Required Strength: 27
@@ -3413,7 +3413,7 @@ Fire Resist +50%
 --enditem--
 
 --startitem--
-Unique,Bloodrise,Morning Star
+Unique,Bloodrise,Morning Star,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 15 To 35 (25 Avg)
 Required Level: 15
 Required Strength: 36
@@ -3431,7 +3431,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,The General's Tan Do Li Ga,Flail
+Unique,The General's Tan Do Li Ga,Flail,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: 2 To (56-58) (29-30 Avg)
 Required Level: 21
 Required Strength: 41
@@ -3449,7 +3449,7 @@ Slows Target By 50%
 --enditem--
 
 --startitem--
-Unique,Ironstone,War Hammer
+Unique,Ironstone,War Hammer,Normal Unique Mace Classes: Maces and Mauls
 One-Hand Damage: (38-47) To (58-72) (48-59.5 Avg)
 Required Level: 27
 Required Strength: 53
@@ -3464,7 +3464,7 @@ Adds 1-10 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Bonesnap,Maul
+Unique,Bonesnap,Maul,Normal Unique Mace Classes: Maces and Mauls
 Two-Hand Damage: (90-120) To (129-172) (109.5-146 Avg)
 Required Level: 24
 Required Strength: 69
@@ -3479,7 +3479,7 @@ Fire Resist +30%
 --enditem--
 
 --startitem--
-Unique,Steeldriver,Great Maul
+Unique,Steeldriver,Great Maul,Normal Unique Mace Classes: Maces and Mauls
 Two-Hand Damage: (95-133) To (145-203) (120-168 Avg)
 Required Level: 29
 Required Strength: 50
@@ -3494,7 +3494,7 @@ Heal Stamina plus 25%
 --enditem--
 
 --startitem--
-Unique,The Dragon Chang,Spear
+Unique,The Dragon Chang,Spear,Normal Unique Spears
 Two-Hand Damage: 13 To 15 (14 Avg)
 Required Level: 8
 Required  Dexterity: 20
@@ -3509,7 +3509,7 @@ Adds 3-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Razortine,Trident
+Unique,Razortine,Trident,Normal Unique Spears
 Two-Hand Damage: (11-13) To (19-22) (15-17.5 Avg)
 Required Level: 12
 Required Strength: 38
@@ -3526,7 +3526,7 @@ Slows Target By 25%*
 --enditem--
 
 --startitem--
-Unique,Bloodthief,Brandistock
+Unique,Bloodthief,Brandistock,Normal Unique Spears
 Two-Hand Damage: (10-11) To (25-28) (17.5-19.5 Avg)
 Required Level: 17
 Required Strength: 40
@@ -3542,7 +3542,7 @@ Base Weapon Speed: [-20]
 --enditem--
 
 --startitem--
-Unique,Lance of Yaggai,Spetum
+Unique,Lance of Yaggai,Spetum,Normal Unique Spears
 Two-Hand Damage: 15 To 23 (19 Avg)
 Required Level: 22
 Required Strength: 54
@@ -3557,7 +3557,7 @@ Attacker takes damage of 8
 --enditem--
 
 --startitem--
-Unique,The Tannr Gorerod,Pike
+Unique,The Tannr Gorerod,Pike,Normal Unique Spears
 Two-Hand Damage: (25-28) To (113-126) (69-77 Avg)
 Required Level: 27
 Required Strength: 60
@@ -3575,7 +3575,7 @@ Fire Resist +15%
 --enditem--
 
 --startitem--
-Unique,Homunculus,Hierophant Trophy
+Unique,Homunculus,Hierophant Trophy,Necromancer Unique Items
 Defense: 177-213 (varies)(Base Defense: 58-70)
 Defense: 58-70
 Required Level: 42
@@ -3596,7 +3596,7 @@ All Resistances +40
 --enditem--
 
 --startitem--
-Unique,Darkforce Spawn,Bloodlord Skull
+Unique,Darkforce Spawn,Bloodlord Skull,Necromancer Unique Items
 Defense: 357-417 (varies)(Base Defense: 103-148)
 Required Level: 65
 Required Strength: 106
@@ -3614,7 +3614,7 @@ Increase Maximum Mana 10%
 --enditem--
 
 --startitem--
-Unique,Boneflame,Succubus Skull
+Unique,Boneflame,Succubus Skull,Necromancer Unique Items
 Defense: 323-367 (varies)(Base Defense: 100-146)
 Required Level: 72
 Required Strength: 95
@@ -3630,7 +3630,7 @@ All Resistances +20-30 (varies)
 --enditem--
 
 --startitem--
-Unique,Bonehew,Ogre Axe
+Unique,Bonehew,Ogre Axe,Elite Unique Polearms
 Two-Hand Damage: (103-117) To (536-609) (319.5-363 Avg)
 Required Level: 64
 Required Strength: 195
@@ -3647,7 +3647,7 @@ Socketed (2)
 --enditem--
 
 --startitem--
-Unique,The Reaper's Toll,Thresher
+Unique,The Reaper's Toll,Thresher,Elite Unique Polearms
 Two-Hand Damage: (34-40) To (408-479) (221-259.5 Avg)
 Required Level: 75
 Required Strength: 114
@@ -3666,7 +3666,7 @@ Requirements -25%
 --enditem--
 
 --startitem--
-Unique,Tomb Reaver,Cryptic Axe
+Unique,Tomb Reaver,Cryptic Axe,Elite Unique Polearms
 Two-Hand Damage: (99-125) To (450-570) (274.5-347.5 Avg)
 Required Level: 84
 Required Strength: 165
@@ -3688,7 +3688,7 @@ Socketed (1-3) (varies)
 --enditem--
 
 --startitem--
-Unique,Stormspire,Giant Thresher
+Unique,Stormspire,Giant Thresher,Elite Unique Polearms
 Two-Hand Damage: (100-140) To (285-399) (192.5-269.5 Avg)
 Required Level: 70
 Required Strength: 188
@@ -3707,7 +3707,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Boneshade,Lich Wand
+Unique,Boneshade,Lich Wand,Elite Unique Wands
 One-Hand Damage: 10 To 31 (20.5 Avg)
 Required Level: 79
 Required Strength: 25
@@ -3725,7 +3725,7 @@ Base Weapon Speed: [-20]
 --enditem--
 
 --startitem--
-Unique,Death's Web,Unearthed Wand
+Unique,Death's Web,Unearthed Wand,Elite Unique Wands
 One-Hand Damage: 22 To 28 (25 Avg)
 Required Level: 66
 Required Strength: 25
@@ -3741,7 +3741,7 @@ Base Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Coldkill,Hatchet
+Unique,Coldkill,Hatchet,Exceptional Unique Axes
 One-Hand Damage: (25-29) To (52-60) (38.5-44.5 Avg)
 Required Level: 36
 Required Strength: 25
@@ -3761,7 +3761,7 @@ Cold Resist +15%
 --enditem--
 
 --startitem--
-Unique,Butcher's Pupil,Cleaver
+Unique,Butcher's Pupil,Cleaver,Exceptional Unique Axes
 One-Hand Damage: (55-60) To (132-149) (93.5-104.5 Avg)
 Required Level: 39
 Required Strength: 68
@@ -3777,7 +3777,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Islestrike,Twin Axe
+Unique,Islestrike,Twin Axe,Exceptional Unique Axes
 One-Hand Damage: (35-37) To (102-110) (68.5-73.5 Avg)
 Required Level: 43
 Required Strength: 85
@@ -3795,7 +3795,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Pompeii's Wrath,Crowbill
+Unique,Pompeii's Wrath,Crowbill,Exceptional Unique Axes
 One-Hand Damage: (33-37) To (81-91) (57-64 Avg)
 Required Level: 45
 Required Strength: 94
@@ -3812,7 +3812,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Guardian Naga,Naga
+Unique,Guardian Naga,Naga,Exceptional Unique Axes
 One-Hand Damage: (40-44) To (132-146) (86-95 Avg)
 Required Level: 48
 Required Strength: 121
@@ -3829,7 +3829,7 @@ Attacker Takes Damage of 15
 --enditem--
 
 --startitem--
-Unique,Warlord's Trust,Military Axe
+Unique,Warlord's Trust,Military Axe,Exceptional Unique Axes
 Two-Hand Damage: 38 To 93 (65.5 Avg)
 Required Level: 35
 Required Strength: 73
@@ -3846,7 +3846,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Spellsteel,Bearded Axe
+Unique,Spellsteel,Bearded Axe,Exceptional Unique Axes
 Two-Hand Damage: 55 To 129 (92 Avg)
 Required Level: 39
 Required Strength: 37
@@ -3867,7 +3867,7 @@ Magic Damage Reduced By 12-15 (varies)
 --enditem--
 
 --startitem--
-Unique,Stormrider,Tabar
+Unique,Stormrider,Tabar,Exceptional Unique Axes
 Two-Hand Damage: 83 To 229 (156 Avg)
 Required Level: 41
 Required Strength: 101
@@ -3885,7 +3885,7 @@ Attacker Takes Lightning Damage Of 15
 --enditem--
 
 --startitem--
-Unique,Boneslayer Blade,Gothic Axe
+Unique,Boneslayer Blade,Gothic Axe,Exceptional Unique Axes
 Two-Hand Damage: (50-57) To (196-224) (123-140.5 Avg)
 Required Level: 42
 Required Strength: 115
@@ -3905,7 +3905,7 @@ Level 20 Holy Bolt (200 Charges)
 --enditem--
 
 --startitem--
-Unique,The Minotaur,Ancient Axe
+Unique,The Minotaur,Ancient Axe,Exceptional Unique Axes
 Two-Hand Damage: (123-149) To (234-285) (178.5-217 Avg)
 Required Level: 45
 Required Strength: 125
@@ -3923,7 +3923,7 @@ Half Freeze Duration
 --enditem--
 
 --startitem--
-Unique,Nagelring,Ring
+Unique,Nagelring,Ring,Unique Rings
 Required Level: 7
 Magic Damage Reduced By 3
 +50-75 To Attack Rating (varies)
@@ -3933,7 +3933,7 @@ Attacker Takes Damage of 3*
 --enditem--
 
 --startitem--
-Unique,Manald Heal,Ring
+Unique,Manald Heal,Ring,Unique Rings
 Required Level: 15
 4-7% Mana Stolen Per Hit (varies)
 Replenish Life +5-8 (varies)
@@ -3943,7 +3943,7 @@ Regenerate Mana 20%
 --enditem--
 
 --startitem--
-Unique,Stone of Jordan,Ring
+Unique,Stone of Jordan,Ring,Unique Rings
 Required Level: 29
 +1 To All Skills
 Increase Maximum Mana 25%*
@@ -3953,7 +3953,7 @@ Adds 1-12 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Dwarf Star,Ring
+Unique,Dwarf Star,Ring,Unique Rings
 Required Level: 45
 +40 To Life
 +40 Maximum Stamina
@@ -3965,7 +3965,7 @@ Magic Damage Reduced By 12-15 (varies)
 --enditem--
 
 --startitem--
-Unique,Raven Frost,Ring
+Unique,Raven Frost,Ring,Unique Rings
 Required Level: 45
 +150-250 To Attack Rating (varies)
 Adds 15-45 Cold Damage, 4 sec. Duration (Normal)
@@ -3977,7 +3977,7 @@ Cold Absorb 20%
 --enditem--
 
 --startitem--
-Unique,Bul-Kathos' Wedding Band,Ring
+Unique,Bul-Kathos' Wedding Band,Ring,Unique Rings
 Required Level: 58
 +1 To All Skills
 + (0.5 Per Character Level) 0-49 To Life (Based On Character Level)
@@ -3987,7 +3987,7 @@ Required Level: 58
 --enditem--
 
 --startitem--
-Unique,Carrion Wind,Ring
+Unique,Carrion Wind,Ring,Unique Rings
 Required Level: 60
 10% Chance To Cast Level 10 Poison Nova When Struck
 8% Chance To Cast Level 13 Twister On Striking
@@ -4000,7 +4000,7 @@ Level 21 Poison Creeper (15 Charges)
 --enditem--
 
 --startitem--
-Unique,Nature's Peace,Ring
+Unique,Nature's Peace,Ring,Unique Rings
 Required Level: 69
 Slain Monsters Rest In Peace*
 Prevent Monster Heal
@@ -4012,7 +4012,7 @@ Level 5 Oak Sage (27 charges)
 --enditem--
 
 --startitem--
-Unique,Wisp Projector,Ring
+Unique,Wisp Projector,Ring,Unique Rings
 Required Level: 76
 10% Chance To Cast Level 16 Lightning On Striking
 Lightning Absorb 10-20% (varies)
@@ -4024,7 +4024,7 @@ Level 2 Oak Sage (15 charges)
 --enditem--
 
 --startitem--
-Unique,Langer Briser,Arbalest
+Unique,Langer Briser,Arbalest,Exceptional Unique Crossbows
 Two-Hand Damage: (37-42) To (82-111) (59.5-76.5 Avg)
 Required Level: 32
 Required Strength: 52
@@ -4041,7 +4041,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Pus Spitter,Siege Crossbow
+Unique,Pus Spitter,Siege Crossbow,Exceptional Unique Crossbows
 Two-Hand Damage: (50-64) To (105-134) (77.5-99 Avg)
 Required Level: 36
 Required Strength: 32
@@ -4059,7 +4059,7 @@ Requirements -60%
 --enditem--
 
 --startitem--
-Unique,Buriza-Do Kyanon,Ballista
+Unique,Buriza-Do Kyanon,Ballista,Exceptional Unique Crossbows
 Two-Hand Damage: (82-99) To (139-412) (110.5-255.5 Avg)
 Required Level: 41
 Required Strength: 110
@@ -4077,7 +4077,7 @@ Freezes Target +3
 --enditem--
 
 --startitem--
-Unique,Demon Machine,Chu-Ko-Nu
+Unique,Demon Machine,Chu-Ko-Nu,Exceptional Unique Crossbows
 Two-Hand Damage: 31 To 137 (84 Avg)
 Required Level: 49
 Required Strength: 80
@@ -4094,7 +4094,7 @@ Piercing Attack (66)
 --enditem--
 
 --startitem--
-Unique,Pelta Lunata,Buckler
+Unique,Pelta Lunata,Buckler,Normal Unique Shields
 Defense: 39 (Base Defense: 4-6)
 Required Level: 2
 Required Strength: 12
@@ -4112,7 +4112,7 @@ Paladin Smite Damage: 1 To 3
 --enditem--
 
 --startitem--
-Unique,Umbral Disk,Small Shield
+Unique,Umbral Disk,Small Shield,Normal Unique Shields
 Defense: 45-46 (varies)(Base Defense: 8-10)
 Required Level: 9
 Required Strength: 22
@@ -4131,7 +4131,7 @@ Hit Blinds Target*
 --enditem--
 
 --startitem--
-Unique,Stormguild,Large Shield
+Unique,Stormguild,Large Shield,Normal Unique Shields
 Defense: 52-54 (varies)(Base Defense: 12-14)
 Required Level: 13
 Required Strength: 34
@@ -4149,7 +4149,7 @@ Magic Damage Reduced By 1
 --enditem--
 
 --startitem--
-Unique,Steelclash,Kite Shield
+Unique,Steelclash,Kite Shield,Normal Unique Shields
 Defense: 50-58 (varies)(Base Defense: 16-18)
 Required Level: 17
 Required Strength: 47
@@ -4168,7 +4168,7 @@ Damage Reduced By 3
 --enditem--
 
 --startitem--
-Unique,Swordback Hold,Spiked Shield
+Unique,Swordback Hold,Spiked Shield,Normal Unique Shields
 Defense: 43-51 (varies)(Base Defense: 15-25)
 Required Level: 15
 Required Strength: 30
@@ -4184,7 +4184,7 @@ Attacker Takes Damage of 10
 --enditem--
 
 --startitem--
-Unique,Bverrit Keep,Tower Shield
+Unique,Bverrit Keep,Tower Shield,Normal Unique Shields
 Defense: 76-87 (varies)(Base Defense: 22-25)
 Required Level: 19
 Required Strength: 75
@@ -4201,7 +4201,7 @@ Magic Damage Reduced By 5
 --enditem--
 
 --startitem--
-Unique,Wall of the Eyeless,Bone Shield
+Unique,Wall of the Eyeless,Bone Shield,Normal Unique Shields
 Defense: 50-53 (varies)(Base Defense: 10-30)
 Required Level: 20
 Required Strength: 25
@@ -4218,7 +4218,7 @@ Poison Resist +20%
 --enditem--
 
 --startitem--
-Unique,The Ward,Gothic Shield
+Unique,The Ward,Gothic Shield,Normal Unique Shields
 Defense: 112 (Base Defense: 30-35)
 Required Level: 26
 Required Strength: 60
@@ -4235,7 +4235,7 @@ Magic Damage Reduced By 2
 --enditem--
 
 --startitem--
-Unique,Jalal's Mane,Totemic Mask
+Unique,Jalal's Mane,Totemic Mask,Unique Druid Items
 Defense: 247-297 (varies)(Base Defense: 73-98)
 Required Level: 42
 Required Strength: 65
@@ -4254,7 +4254,7 @@ All Resistances +30
 --enditem--
 
 --startitem--
-Unique,Cerebus' Bite,Blood Spirit
+Unique,Cerebus' Bite,Blood Spirit,Unique Druid Items
 Defense: 335-350 (varies)(Base Defense: 101-145)
 Required Level: 63
 Required Strength: 86
@@ -4271,7 +4271,7 @@ Durability: 20
 --enditem--
 
 --startitem--
-Unique,Ravenlore,Sky Spirit
+Unique,Ravenlore,Sky Spirit,Unique Druid Items
 Defense: 343-390 (varies)(Base Defense: 103-155)
 Required Level: 74
 Required Strength: 113
@@ -4287,7 +4287,7 @@ All Resistances +15-25 (varies)
 --enditem--
 
 --startitem--
-Unique,Spirit Keeper,Earth Spirit
+Unique,Spirit Keeper,Earth Spirit,Unique Druid Items
 Defense: 413-443 (varies)(Base Defense: 107-152)
 Required Level: 67
 Required Strength: 104
@@ -4304,7 +4304,7 @@ Cold Absorb 15-25% (varies)
 --enditem--
 
 --startitem--
-Unique,Razorswitch,Jo Staff
+Unique,Razorswitch,Jo Staff,Exceptional Unique Staves
 Two-Hand Damage: 6 To 21 (13.5 Avg)
 Required Level: 28
 Required Strength: 25
@@ -4322,7 +4322,7 @@ Attacker Takes Damage Of 15
 --enditem--
 
 --startitem--
-Unique,Ribcracker,Quarterstaff
+Unique,Ribcracker,Quarterstaff,Exceptional Unique Staves
 Two-Hand Damage: (54-62) To (143-169) (98.5-115.5 Avg)
 Required Level: 31
 Required Strength: 25
@@ -4341,7 +4341,7 @@ Adds 30-65 Damage
 --enditem--
 
 --startitem--
-Unique,Chromatic Ire,Cedar Staff
+Unique,Chromatic Ire,Cedar Staff,Exceptional Unique Staves
 Two-Hand Damage: 11 To 32 (21.5 Avg)
 Required Level: 35
 Required Strength: 25
@@ -4360,7 +4360,7 @@ Attacker Takes Lightning Damage Of 20
 --enditem--
 
 --startitem--
-Unique,Warpspear,Gothic Staff
+Unique,Warpspear,Gothic Staff,Exceptional Unique Staves
 Two-Hand Damage: 14 To 34 (24 Avg)
 Required Level: 39
 Required Strength: 25
@@ -4377,7 +4377,7 @@ Ignore Target's Defense
 --enditem--
 
 --startitem--
-Unique,Skull Collector,Rune Staff
+Unique,Skull Collector,Rune Staff,Exceptional Unique Staves
 Two-Hand Damage: 24 To 58 (41 Avg)
 Required Level: 41
 Required Strength: 25
@@ -4392,7 +4392,7 @@ Increase Maximum Mana 20%
 --enditem--
 
 --startitem--
-Unique,Skystrike,Edge Bow
+Unique,Skystrike,Edge Bow,Exceptional Unique Bows
 Two-Hand Damage: (15-18) to (47-57)  (31-37.5 Avg)
 Required Level: 28
 Required Strength: 25
@@ -4409,7 +4409,7 @@ Adds 1-250 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Riphook,Razor Bow
+Unique,Riphook,Razor Bow,Exceptional Unique Bows
 Two-Hand Damage: (22-25) To (61-70) (41.5-47.5 Avg)
 Required Level: 31
 Required Strength: 25
@@ -4425,7 +4425,7 @@ Slows Target By 30%
 --enditem--
 
 --startitem--
-Unique,Kuko Shakaku,Cedar Bow
+Unique,Kuko Shakaku,Cedar Bow,Exceptional Unique Bows
 Two-Hand Damage: (25-28) To (72-81) (48.5-54.5 Avg)
 Required Level: 33
 Required Strength: 53
@@ -4441,7 +4441,7 @@ Adds 40-180 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Endlesshail,Double Bow
+Unique,Endlesshail,Double Bow,Exceptional Unique Bows
 Two-Hand Damage: (30-35) To (72-83) (51-59 Avg)
 Required Level: 36
 Required Strength: 58
@@ -4457,7 +4457,7 @@ Cold Resist +35%
 --enditem--
 
 --startitem--
-Unique,Witchwild String,Short Siege Bow
+Unique,Witchwild String,Short Siege Bow,Exceptional Unique Bows
 Two-Hand Damage: (32-35) To (75-81) (53.5-58 Avg)
 Required Level: 39
 Required Strength: 65
@@ -4473,7 +4473,7 @@ Sockets (2)
 --enditem--
 
 --startitem--
-Unique,Cliffkiller,Large Siege Bow
+Unique,Cliffkiller,Large Siege Bow,Exceptional Unique Bows
 Two-Hand Damage: (34-43) To (141-168) (87.5-105.5 Avg)
 Required Level: 41
 Required Strength: 80
@@ -4489,7 +4489,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Magewrath,Rune Bow
+Unique,Magewrath,Rune Bow,Exceptional Unique Bows
 Two-Hand Damage: (55-60) To (127-137) (91-98.5 Avg)
 Required Level: 43
 Required Strength: 73
@@ -4508,7 +4508,7 @@ Magic Damage Reduced By 9-13 (varies)
 --enditem--
 
 --startitem--
-Unique,Goldstrike Arch,Gothic Bow
+Unique,Goldstrike Arch,Gothic Bow,Exceptional Unique Bows
 Two-Hand Damage: (30-35) To (150-175) (90-105 Avg)
 Required Level: 46
 Required Strength: 95
@@ -4525,7 +4525,7 @@ Replenish Life +12
 --enditem--
 
 --startitem--
-Unique,Razor's Edge,Tomahawk
+Unique,Razor's Edge,Tomahawk,Elite Unique Axes
 One-Hand Damage: (90-107) To (159-188) (124.5-147.5 Avg)
 Required Level: 67
 Required Strength: 125
@@ -4541,7 +4541,7 @@ Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Rune Master,Ettin Axe
+Unique,Rune Master,Ettin Axe,Elite Unique Axes
 One-Hand Damage: (105-122) To (211-244) (158-183 Avg)
 Required Level: 72
 Required Strength: 145
@@ -4557,7 +4557,7 @@ Socketed (3-5) (varies)
 --enditem--
 
 --startitem--
-Unique,Cranebeak,War Spike
+Unique,Cranebeak,War Spike,Elite Unique Axes
 One-Hand Damage: (102-120) To (163-192) (132.5-156 Avg)
 Required Level: 63
 Required Strength: 133
@@ -4574,7 +4574,7 @@ Level 8 Raven (15 charges)
 --enditem--
 
 --startitem--
-Unique,Death Cleaver,Berserker Axe
+Unique,Death Cleaver,Berserker Axe,Elite Unique Axes
 One-Hand Damage: (79-91) To (234-269) (156.5-180 Avg)
 Required Level: 70
 Required Strength: 138
@@ -4591,7 +4591,7 @@ Weapon Speed: [0]
 --enditem--
 
 --startitem--
-Unique,Ethereal Edge,Silver-Edged Axe
+Unique,Ethereal Edge,Silver-Edged Axe,Elite Unique Axes
 Two-Hand Damage: (232-260) To (412-462) (322-361 Avg)
 Required Level: 74
 Required Strength: 156
@@ -4609,7 +4609,7 @@ Ethereal (Cannot Be Repaired)*
 --enditem--
 
 --startitem--
-Unique,Hellslayer,Decapitator
+Unique,Hellslayer,Decapitator,Elite Unique Axes
 Two-Hand Damage: 98 To (278-680) (188-389 Avg)
 Required Level: 66
 Required Strength: 189
@@ -4627,7 +4627,7 @@ Adds 150-250 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Messerschmidt's Reaver,Champion Axe
+Unique,Messerschmidt's Reaver,Champion Axe,Elite Unique Axes
 Two-Hand Damage: 177 To (283-514) (230-345.5 Avg)
 Required Level: 70
 Required Strength: 167
@@ -4643,7 +4643,7 @@ Adds 20-240 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Executioner's Justice,Glorious Axe
+Unique,Executioner's Justice,Glorious Axe,Elite Unique Axes
 Two-Hand Damage: (204-234) To (421-483) (312.5-358.5 Avg)
 Required Level: 75
 Required Strength: 164
@@ -4660,7 +4660,7 @@ Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Deathbit,Battle Dart
+Unique,Deathbit,Battle Dart,Exceptional Unique Throwing Weapons
 Throw Damage: (25-30) To (55-67) (40-48.5 Avg)
 One-Hand Damage: (18-22) To (36-44) (27-33 Avg)
 Required Level: 44
@@ -4678,7 +4678,7 @@ Replenishes Quantity [1 in 4 sec.]
 --enditem--
 
 --startitem--
-Unique,The Scalper,Francisca
+Unique,The Scalper,Francisca,Exceptional Unique Throwing Weapons
 Throw Damage: (45-54) To (82-99) (63.5-76.5 Avg)
 One-Hand Damage: (27-33) To (55-66) (41-49.5 Avg)
 Required Level: 57
@@ -4697,7 +4697,7 @@ Replenishes Quantity [1 in 3 sec.]
 --enditem--
 
 --startitem--
-Unique,The Oculus,Swirling Crystal
+Unique,The Oculus,Swirling Crystal,Unique Sorceress Items
 One-Hand Damage: 18 To 42 (30 Avg)
 Required Level: 42
 Durability: 50
@@ -4716,7 +4716,7 @@ All Resistances +20
 --enditem--
 
 --startitem--
-Unique,Eschuta's Temper,Eldritch Orb
+Unique,Eschuta's Temper,Eldritch Orb,Unique Sorceress Items
 One-Hand Damage: 18 To 50 (34 Avg)
 Required Level: 72
 Durability: 30
@@ -4731,7 +4731,7 @@ Base Weapon Speed: [-10]
 --enditem--
 
 --startitem--
-Unique,Death's Fathom,Dimensional Shard
+Unique,Death's Fathom,Dimensional Shard,Unique Sorceress Items
 One-Hand Damage: 30 To 53 (41.5 Avg)
 Required Level: 73
 Durability: 50
@@ -4747,7 +4747,7 @@ Fire Resist +25-40% (varies)
 --enditem--
 
 --startitem--
-Unique,Demon's Arch,Balrog Spear
+Unique,Demon's Arch,Balrog Spear,Elite Unique Javelins
 Throw Damage: (104-124) To (161-192) (132.5-158 Avg)
 One-Hand Damage: (85-102) To (163-195) (124-148.5 Avg)
 Required Level: 68
@@ -4765,7 +4765,7 @@ Replenishes Quantity [1 in 3 sec.]
 --enditem--
 
 --startitem--
-Unique,Wraith Flight,Ghost Glaive
+Unique,Wraith Flight,Ghost Glaive,Elite Unique Javelins
 Throw Damage: (112-130) To (317-368) (214.5-249 Avg)
 One-Hand Damage: (70-81) To (225-261) (147.5-171 Avg)
 Required Level: 76
@@ -4783,7 +4783,7 @@ Ethereal (Cannot Be Repaired)*
 --enditem--
 
 --startitem--
-Unique,Gargoyle's Bite,Winged Harpoon
+Unique,Gargoyle's Bite,Winged Harpoon,Elite Unique Javelins
 Throw Damage:  (30-36) To (215-254) (122.5-145 Avg)
 One-Hand Damage:  (75-89) To (98-115) (86.5-102 Avg)
 Required Level: 70
@@ -4800,7 +4800,7 @@ Replenishes Quantity [1 in 3 sec.]
 --enditem--
 
 --startitem--
-Unique,Dimoak's Hew,Bardiche
+Unique,Dimoak's Hew,Bardiche,Normal Unique Polearms
 Two-Hand Damage: 2 To 54 (28 Avg)
 Required Level: 8
 Required Strength: 40
@@ -4814,7 +4814,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Steelgoad,Voulge
+Unique,Steelgoad,Voulge,Normal Unique Polearms
 Two-Hand Damage:  (9-10) To (33-37) (21-23.5 Avg)
 Required Level: 14
 Required Strength: 50
@@ -4829,7 +4829,7 @@ Hit Causes monster to flee 75%
 --enditem--
 
 --startitem--
-Unique,Soul Harvest,Scythe
+Unique,Soul Harvest,Scythe,Normal Unique Polearms
 Two-Hand Damage: (12-15) To (30-38) (21-26.5 Avg)
 Required Level: 19
 Required Strength: 41
@@ -4846,7 +4846,7 @@ All Resistances +20
 --enditem--
 
 --startitem--
-Unique,The Battlebranch,Poleaxe
+Unique,The Battlebranch,Poleaxe,Normal Unique Polearms
 Two-Hand Damage: (27-30) To (58-66) (42.5-48 Avg)
 Required Level: 25
 Required Strength: 62
@@ -4861,7 +4861,7 @@ Base Weapon Speed: [10]
 --enditem--
 
 --startitem--
-Unique,Woestave,Halberd
+Unique,Woestave,Halberd,Normal Unique Polearms
 Two-Hand Damage: (14-16) To (54-62) (34-39 Avg)
 Required Level: 28
 Required Strength: 75
@@ -4880,7 +4880,7 @@ Prevent Monster Heal
 --enditem--
 
 --startitem--
-Unique,The Grim Reaper,War Scythe
+Unique,The Grim Reaper,War Scythe,Normal Unique Polearms
 Two-Hand Damage: 33 To 43 (38 Avg)
 Required Level: 29
 Required Strength: 80
@@ -4896,7 +4896,7 @@ Prevent Monster Heal
 --enditem--
 
 --startitem--
-Unique,Leadcrow,Light Crossbow
+Unique,Leadcrow,Light Crossbow,Normal Unique Crossbows
 Two-Hand Damage: 10 To 15 (12.5 Avg)
 Required Level: 9
 Required Strength: 21
@@ -4912,7 +4912,7 @@ Poison Resist +30%
 --enditem--
 
 --startitem--
-Unique,Ichorsting,Crossbow
+Unique,Ichorsting,Crossbow,Normal Unique Crossbows
 Two-Hand Damage: 13 To 24 (18.5 Avg)
 Required Level: 18
 Required Strength: 40
@@ -4928,7 +4928,7 @@ Piercing Attack (50)
 --enditem--
 
 --startitem--
-Unique,Hellcast,Heavy Crossbow
+Unique,Hellcast,Heavy Crossbow,Normal Unique Crossbows
 Two-Hand Damage: (23-25) To (44-46) (33.5-35.5 Avg)
 Required Level: 27
 Required Strength: 60
@@ -4945,7 +4945,7 @@ Fire Resist +15%
 --enditem--
 
 --startitem--
-Unique,Doomslinger,Repeating Crossbow
+Unique,Doomslinger,Repeating Crossbow,Normal Unique Crossbows
 Two-Hand Damage: (9-12) To (19-24) (14-18 Avg)
 Required Level: 28
 Required Strength: 40
@@ -4960,7 +4960,7 @@ Piercing Attack (35)
 --enditem--
 
 --startitem--
-Unique,Dracul's Grasp,Vampirebone Gloves
+Unique,Dracul's Grasp,Vampirebone Gloves,Elite Unique Gloves
 Defense: 125-145 (varies)(Base Defense: 56-65)
 Required Level: 76
 Required Strength: 50
@@ -4975,7 +4975,7 @@ Durability: 14
 --enditem--
 
 --startitem--
-Unique,Soul Drainer,Vambraces
+Unique,Soul Drainer,Vambraces,Elite Unique Gloves
 Defense: 129-149 (varies)(Base Defense: 59-67)
 Required Level: 74
 Required Strength: 106
@@ -4989,7 +4989,7 @@ Durability: 16
 --enditem--
 
 --startitem--
-Unique,Steelrend,Ogre Gauntlets
+Unique,Steelrend,Ogre Gauntlets,Elite Unique Gloves
 Defense: 232-281 (varies)(Base Defense: 62-71)
 Required Level: 70
 Required Strength: 185
@@ -5002,7 +5002,7 @@ Durability: 24
 --enditem--
 
 --startitem--
-Unique,Eaglehorn,Crusader Bow
+Unique,Eaglehorn,Crusader Bow,Elite Unique Bows
 Two-Hand Damage: 45 To (190-313) (117.5-179 Avg)
 Required Level: 69
 Required Strength: 97
@@ -5018,7 +5018,7 @@ Ignores Target's Defense
 --enditem--
 
 --startitem--
-Unique,Widowmaker,Ward Bow
+Unique,Widowmaker,Ward Bow,Elite Unique Bows
 Two-Hand Damage: (50-60) To (132-159) (91-109.5 Avg)
 Required Level: 65
 Required Strength: 72
@@ -5034,7 +5034,7 @@ Fires Magic Arrows [Level 11]
 --enditem--
 
 --startitem--
-Unique,Windforce,Hydra Bow
+Unique,Windforce,Hydra Bow,Elite Unique Bows
 Two-Hand Damage: 35 To (241-547) (138-291 Avg)
 Required Level: 73
 Required Strength: 134
@@ -5052,7 +5052,7 @@ Knockback
 --enditem--
 
 --startitem--
-Unique,Wizardspike,Bone Knife
+Unique,Wizardspike,Bone Knife,Elite Unique Daggers
 One-Hand Damage: 23 To 49 (36 Avg)
 Required Level: 61
 Required Strength:  38
@@ -5068,7 +5068,7 @@ Indestructible
 --enditem--
 
 --startitem--
-Unique,Fleshripper,Fanged Knife
+Unique,Fleshripper,Fanged Knife,Elite Unique Daggers
 One-Hand Damage: (45-60) To (174-228) (108-144 Avg)
 Required Level: 68
 Required Strength:  42
@@ -5086,7 +5086,7 @@ Slows Target By 20%
 --enditem--
 
 --startitem--
-Unique,Ghostflame,Legend Spike
+Unique,Ghostflame,Legend Spike,Elite Unique Daggers
 One-Hand Damage: (133-156) To (203-238) (168-197 Avg)
 Required Level: 66
 Required Strength:  55
@@ -5103,7 +5103,7 @@ Ethereal (Cannot Be Repaired)*
 --enditem--
 
 --startitem--
-Unique,Visceratuant,Defender
+Unique,Visceratuant,Defender,Exceptional Unique Shields
 Defense: 100-125 (varies)(Base Defense: 41-49)
 Required Level: 28
 Required Strength: 38
@@ -5119,7 +5119,7 @@ Attacker Takes Lightning Damage of 10
 --enditem--
 
 --startitem--
-Unique,Moser's Blessed Circle,Round Shield
+Unique,Moser's Blessed Circle,Round Shield,Exceptional Unique Shields
 Defense: 156-179 (varies)(Base Defense: 47-55)
 Required Level: 31
 Required Strength: 53
@@ -5135,7 +5135,7 @@ Socketed (2)
 --enditem--
 
 --startitem--
-Unique,Stormchaser,Scutum
+Unique,Stormchaser,Scutum,Exceptional Unique Shields
 Defense: 161-198 (varies)(Base Defense: 53-61)
 Required Level: 35
 Required Strength: 71
@@ -5155,7 +5155,7 @@ Adds 1-60 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Tiamat's Rebuke,Dragon Shield
+Unique,Tiamat's Rebuke,Dragon Shield,Exceptional Unique Shields
 Defense: 163-204 (varies)(Base Defense: 59-67)
 Required Level: 38
 Required Strength: 91
@@ -5174,7 +5174,7 @@ All Resistances +25-35% (varies)
 --enditem--
 
 --startitem--
-Unique,Lance Guard,Barbed Shield
+Unique,Lance Guard,Barbed Shield,Exceptional Unique Shields
 Defense: 134-173 (varies)(Base Defense: 58-78)
 Required Level: 35
 Required Strength: 65
@@ -5191,7 +5191,7 @@ Attacker Takes Damage of 47
 --enditem--
 
 --startitem--
-Unique,Gerke's Sanctuary,Pavise
+Unique,Gerke's Sanctuary,Pavise,Exceptional Unique Shields
 Defense: 221-268 (varies)(Base Defense: 68-78)
 Required Level: 44
 Required Strength: 133
@@ -5208,7 +5208,7 @@ Magic Damage Reduced By 14-18 (varies)
 --enditem--
 
 --startitem--
-Unique,Lidless Wall,Grim Shield
+Unique,Lidless Wall,Grim Shield,Exceptional Unique Shields
 Defense: 271-347 (varies)(Base Defense: 50-150)
 Required Level: 41
 Required Strength: 58
@@ -5226,7 +5226,7 @@ Increase Maximum Mana 10%
 --enditem--
 
 --startitem--
-Unique,Radament's Sphere,Ancient Shield
+Unique,Radament's Sphere,Ancient Shield,Exceptional Unique Shields
 Defense: 244-282 (varies)(Base Defense: 80-93)
 Required Level: 50
 Required Strength: 110
@@ -5244,7 +5244,7 @@ Poison Resist +75%
 --enditem--
 
 --startitem--
-Unique,Venom Grip,Demonhide Gloves
+Unique,Venom Grip,Demonhide Gloves,Exceptional Unique Gloves
 Defense: 97-118 (varies)(Base Defense: 28-35)
 Required Level: 29
 Required Strength: 20
@@ -5260,7 +5260,7 @@ Poison Resist +30%
 --enditem--
 
 --startitem--
-Unique,Gravepalm,Sharkskin Gloves
+Unique,Gravepalm,Sharkskin Gloves,Exceptional Unique Gloves
 Defense: 96-112 (varies) (Base Defense: 33-39)
 Required Level: 32
 Required Strength: 20
@@ -5274,7 +5274,7 @@ Durability: 14
 --enditem--
 
 --startitem--
-Unique,Ghoulhide,Heavy Bracers
+Unique,Ghoulhide,Heavy Bracers,Exceptional Unique Gloves
 Defense: 112-130 (varies)(Base Defense: 37-44)
 Required Level: 36
 Required Strength: 58
@@ -5288,7 +5288,7 @@ Durability: 16
 --enditem--
 
 --startitem--
-Unique,Lava Gout,Battle Gauntlets
+Unique,Lava Gout,Battle Gauntlets,Exceptional Unique Gloves
 Defense: 120-144 (varies)(Base Defense: 39-47)
 Required Level: 42
 Required Strength: 88
@@ -5303,7 +5303,7 @@ Fire Resist +24%
 --enditem--
 
 --startitem--
-Unique,Hellmouth,War Gauntlets
+Unique,Hellmouth,War Gauntlets,Exceptional Unique Gloves
 Defense: 135-162 (varies)(Base Defense: 43-53)
 Required Level: 47
 Required Strength: 110
@@ -5317,7 +5317,7 @@ Adds 15-72 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Warshrike,Winged Knife
+Unique,Warshrike,Winged Knife,Elite Unique Throwing Weapons
 Throw Damage: (69-80) To (117-136) (93-108 Avg)
 One-Hand Damage: (81-94) To (105-122) (93-108 Avg)
 Required Level: 75
@@ -5336,7 +5336,7 @@ Replenishes Quantity [1 in 3 sec.]
 --enditem--
 
 --startitem--
-Unique,Gimmershred,Flying Axe
+Unique,Gimmershred,Flying Axe,Elite Unique Throwing Weapons
 Throw Damage: (39-46) To (171-204) (105-125 Avg)
 One-Hand Damage: (44-52) To (169-201) (106.5-126.5 Avg)
 Required Level: 70
@@ -5354,7 +5354,7 @@ Increased Stack Size [60]
 --enditem--
 
 --startitem--
-Unique,Lacerator,Winged Axe
+Unique,Lacerator,Winged Axe,Elite Unique Throwing Weapons
 Throw Damage: (17-21) To (150-186) (83.5-103.5 Avg)
 One-Hand Damage: (27-34) To (140-173) (83.5-103.5 Avg)
 Required Level: 68
@@ -5373,7 +5373,7 @@ Replenishes Quantity [1 in 4 sec.]
 --enditem--
 
 --startitem--
-Unique,String of Ears,Demonhide Sash
+Unique,String of Ears,Demonhide Sash,Exceptional Unique Belts
 Defense: 102-113 (varies)(Base Defense: 29-34)
 Required Level: 29
 Required Strength: 20
@@ -5388,7 +5388,7 @@ Magic Damage Reduced 10-15 (varies)
 --enditem--
 
 --startitem--
-Unique,Razortail,Sharkskin Belt
+Unique,Razortail,Sharkskin Belt,Exceptional Unique Belts
 Defense: 96-107 (varies)(Base Defense: 31-36)
 Required Level: 32
 Required Strength: 20
@@ -5404,7 +5404,7 @@ Attacker Takes Damage of (1 Per Character Level) 1-99 (Based On Character Level)
 --enditem--
 
 --startitem--
-Unique,Gloom's Trap,Mesh Belt
+Unique,Gloom's Trap,Mesh Belt,Exceptional Unique Belts
 Defense:  90-102 (varies)(Base Defense: 35-40)
 Required Level: 36
 Required Strength: 58
@@ -5420,7 +5420,7 @@ Regenerate Mana 15%
 --enditem--
 
 --startitem--
-Unique,Snowclash,Battle Belt
+Unique,Snowclash,Battle Belt,Exceptional Unique Belts
 Defense: 98-116 (varies)(Base Defense: 37-42)
 Required Level: 42
 Required Strength: 88
@@ -5438,7 +5438,7 @@ Adds 13-21 Cold Damage @ 3 sec. duration (Normal)
 --enditem--
 
 --startitem--
-Unique,Thundergod's Vigor,War Belt
+Unique,Thundergod's Vigor,War Belt,Exceptional Unique Belts
 Defense: 137-159 (varies)(Base Defense: 41-52)
 Required Level: 47
 Required Strength: 110
@@ -5457,7 +5457,7 @@ Adds 1-50 Lightning Damage
 --enditem--
 
 --startitem--
-Unique,Hotspur,Boots
+Unique,Hotspur,Boots,Normal Unique Boots
 Defense: 10 (Base Defense: 2-3)
 Required Level: 5
 Durability: 12
@@ -5472,7 +5472,7 @@ Adds 3-6 Fire Damage
 --enditem--
 
 --startitem--
-Unique,Gorefoot,Heavy Boots
+Unique,Gorefoot,Heavy Boots,Normal Unique Boots
 Defense: 20-21 (varies)(Base Defense: 5-6)
 Required Level: 9
 Required Strength: 18
@@ -5488,7 +5488,7 @@ Attacker Takes Damage of 2
 --enditem--
 
 --startitem--
-Unique,Treads of Cthon,Chain Boots
+Unique,Treads of Cthon,Chain Boots,Normal Unique Boots
 Defense: 25-26 (varies)(Base Defense: 8-9)
 Required Level: 15
 Required Strength: 30
@@ -5504,7 +5504,7 @@ Assassin Kick Damage: 6-12
 --enditem--
 
 --startitem--
-Unique,Goblin Toe,Light Plated Boots
+Unique,Goblin Toe,Light Plated Boots,Normal Unique Boots
 Defense: 33-34 (varies)(Base Defense: 9-11)
 Required Level: 22
 Required Strength: 50
@@ -5520,7 +5520,7 @@ Magic Damage Reduced By 1
 --enditem--
 
 --startitem--
-Unique,Tearhaunch,Greaves
+Unique,Tearhaunch,Greaves,Normal Unique Boots
 Defense: 60-63 (varies)(Base Defense: 12-15)
 Required Level: 29
 Required Strength: 70
@@ -5537,7 +5537,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Infernostride,Demonhide Boots
+Unique,Infernostride,Demonhide Boots,Exceptional Unique Boots
 Defense: 94-105 (varies)(Base Defense: 28-35)
 Required Level: 29
 Required Strength: 20
@@ -5556,7 +5556,7 @@ Fire Resist +30%
 --enditem--
 
 --startitem--
-Unique,Waterwalk,Sharkskin Boots
+Unique,Waterwalk,Sharkskin Boots,Exceptional Unique Boots
 Defense: 112-124 (varies)(Base Defense: 33-39)
 Required Level: 32
 Required Strength: 47
@@ -5574,7 +5574,7 @@ Heal Stamina Plus 50%
 --enditem--
 
 --startitem--
-Unique,Silkweave,Mesh Boots
+Unique,Silkweave,Mesh Boots,Exceptional Unique Boots
 Defense: 112-130 (varies)(Base Defense: 37-44)
 Required Level: 36
 Required Strength: 65
@@ -5589,7 +5589,7 @@ Increase Maximum Mana 10%
 --enditem--
 
 --startitem--
-Unique,War Traveler,Battle Boots
+Unique,War Traveler,Battle Boots,Exceptional Unique Boots
 Defense: 120-139 (varies)(Base Defense: 39-47)
 Required Level: 42
 Required Strength: 95
@@ -5607,7 +5607,7 @@ Attacker Takes Damage Of 5-10 (varies)
 --enditem--
 
 --startitem--
-Unique,Gore Rider,War Boots
+Unique,Gore Rider,War Boots,Exceptional Unique Boots
 Defense: 140-162 (varies)(Base Defense: 43-53)
 Required Level: 47
 Required Strength: 94
@@ -5624,7 +5624,7 @@ Requirements -25%
 --enditem--
 
 --startitem--
-Unique,Torch of Iro,Wand
+Unique,Torch of Iro,Wand,Normal Unique Wands
 One-Hand Damage: 2 To 4 (3 Avg)
 Required Level: 5
 Durability: 15
@@ -5640,7 +5640,7 @@ Regenerate Mana 5%
 --enditem--
 
 --startitem--
-Unique,Maelstrom,Yew Wand
+Unique,Maelstrom,Yew Wand,Normal Unique Wands
 One-Hand Damage: 2 To 8 (5 Avg)
 Required Level: 14
 Durability: 15
@@ -5658,7 +5658,7 @@ Lightning Resist +40%
 --enditem--
 
 --startitem--
-Unique,Gravenspine,Bone Wand
+Unique,Gravenspine,Bone Wand,Normal Unique Wands
 One-Hand Damage: 3 To 7 (5 Avg)
 Required Level: 20
 Durability: 15
@@ -5674,7 +5674,7 @@ Adds 4-8 Cold Damage, Cold Duration: 3 seconds
 --enditem--
 
 --startitem--
-Unique,Ume's Lament,Grim Wand
+Unique,Ume's Lament,Grim Wand,Normal Unique Wands
 One-Hand Damage: 5 To 11 (8 Avg)
 Required Level: 28
 Durability: 15
@@ -5690,7 +5690,7 @@ Hit Causes Monster To Flee 50%
 --enditem--
 
 --startitem--
-Unique,Kira's Guardian*,Tiara
+Unique,Kira's Guardian*,Tiara,Unique Circlets
 Defense: 90-170 (varies)(Base Defense: 40-50)
 Required Level: 77
 Durability: 25
@@ -5703,7 +5703,7 @@ All Resistances +50-70 (varies)
 --enditem--
 
 --startitem--
-Unique,Griffon's Eye,Diadem
+Unique,Griffon's Eye,Diadem,Unique Circlets
 Defense: 150-260 (varies)(Base Defense: 50-60)
 Required Level: 76
 Durability: 20
@@ -5717,7 +5717,7 @@ Durability: 20
 --enditem--
 
 --startitem--
-Unique,Gull,Dagger
+Unique,Gull,Dagger,Normal Unique Daggers
 One-Hand Damage: 2 To 19 (10.5 Avg)
 Required Level: 4
 Durability: 16
@@ -5729,7 +5729,7 @@ Adds 1-15 damage
 --enditem--
 
 --startitem--
-Unique,The Diggler,Dirk
+Unique,The Diggler,Dirk,Normal Unique Daggers
 One-Hand Damage: 4 To 13 (8.5 Avg)
 Required Level: 11
 Required Dexterity: 25
@@ -5745,7 +5745,7 @@ Fire Resist +25%
 --enditem--
 
 --startitem--
-Unique,The Jade Tan Do,Kris
+Unique,The Jade Tan Do,Kris,Normal Unique Daggers
 One-Hand Damage: 2 To 11 (6.5 Avg)
 Required Level: 19
 Required Dexterity: 45
@@ -5760,7 +5760,7 @@ Cannot Be Frozen
 --enditem--
 
 --startitem--
-Unique,Spectral Shard,Blade
+Unique,Spectral Shard,Blade,Normal Unique Daggers
 One-Hand Damage: 4 To 15 (9.5 Avg)
 Required Level: 25
 Required Strength: 35
@@ -5775,7 +5775,7 @@ All Resistances +10
 --enditem--
 
 --startitem--
-Unique,Hellrack,Colossus Crossbow
+Unique,Hellrack,Colossus Crossbow,Elite Unique Crossbows
 Two-Hand Damage: (89-105) To (254-300) (171.5-202.5 Avg)
 Required Level: 76
 Required Strength: 163
@@ -5793,7 +5793,7 @@ Socketed (2)
 --enditem--
 
 --startitem--
-Unique,Gut Siphon,Demon Crossbow
+Unique,Gut Siphon,Demon Crossbow,Elite Unique Crossbows
 Two-Hand Damage: (67-83) To (104-128) (85.5-105.5 Avg)
 Required Level: 71
 Required Strength: 141
@@ -5808,7 +5808,7 @@ Slows Target by 25%
 --enditem--
 
 --startitem--
-Unique,Zakarum's Hand,Rune Scepter
+Unique,Zakarum's Hand,Rune Scepter,Exceptional Unique Scepters
 One-Hand Damage: (36-41) To (67-76) (51.5-58.5 Avg)
 Required Level: 37
 Required Strength: 58
@@ -5828,7 +5828,7 @@ Heal Stamina Plus 15%
 --enditem--
 
 --startitem--
-Unique,The Fetid Sprinkler,Holy Water Sprinkler
+Unique,The Fetid Sprinkler,Holy Water Sprinkler,Exceptional Unique Scepters
 One-Hand Damage: (51-55) To (118-129) (84.5-92 Avg)
 Required Level: 38
 Required Strength: 76
@@ -5846,7 +5846,7 @@ Adds 15-25 Damage
 --enditem--
 
 --startitem--
-Unique,Hand of Blessed Light,Divine Scepter
+Unique,Hand of Blessed Light,Divine Scepter,Exceptional Unique Scepters
 One-Hand Damage: (56-61) To (132-143) (94-102 Avg)
 Required Level: 42
 Required Strength: 103
@@ -5867,7 +5867,7 @@ Regenerate Mana 15%
 --enditem--
 
 --startitem--
-Unique,The Impaler,War Spear
+Unique,The Impaler,War Spear,Exceptional Unique Spears
 Two-Hand Damage: (24-27) To (88-99) (56-63 Avg)
 Required Level: 31
 Required Strength: 25
@@ -5886,7 +5886,7 @@ Prevent Monster Heal
 --enditem--
 
 --startitem--
-Unique,Kelpie Snare,Fuscina
+Unique,Kelpie Snare,Fuscina,Exceptional Unique Spears
 Two-Hand Damage: (75-83) To (138-153) (106.5-118 Avg)
 Required Level: 33
 Required Strength: 77
@@ -5903,7 +5903,7 @@ Fire Resist +50%
 --enditem--
 
 --startitem--
-Unique,Soulfeast Tine,War Fork
+Unique,Soulfeast Tine,War Fork,Exceptional Unique Spears
 Two-Hand Damage: (40-46) To (100-116) (70-81 Avg)
 Required Level: 35
 Required Strength: 64
@@ -5920,7 +5920,7 @@ Requirements -20%
 --enditem--
 
 --startitem--
-Unique,Hone Sundan,Yari
+Unique,Hone Sundan,Yari,Exceptional Unique Spears
 Two-Hand Damage: (95-107) To (193-217) (144-162 Avg)
 Required Level: 37
 Required Strength: 101
@@ -5935,7 +5935,7 @@ Socketed (3)
 --enditem--
 
 --startitem--
-Unique,Spire of Honor,Lance
+Unique,Spire of Honor,Lance,Exceptional Unique Spears
 Two-Hand Damage: (87-101) To (325-382) (206-241.5 Avg)
 Required Level: 39
 Required Strength: 110
@@ -5955,7 +5955,7 @@ Replenish Life +20
 --enditem--
 
 --startitem--
-Unique,Knell Striker,Scepter
+Unique,Knell Striker,Scepter,Normal Unique Scepters
 One-Hand Damage: 10 To (18-19) (14-14.5 Avg)
 Required Level: 5
 Required Strength: 25
@@ -5972,7 +5972,7 @@ Fire Resist +20%
 --enditem--
 
 --startitem--
-Unique,Rusthandle,Grand Scepter
+Unique,Rusthandle,Grand Scepter,Normal Unique Scepters
 One-Hand Damage: 15 To (34-35) (24.5-25 Avg)
 Required Level: 18
 Required Strength: 37
@@ -5990,7 +5990,7 @@ Magic damage reduced by 1
 --enditem--
 
 --startitem--
-Unique,Stormeye,War Scepter
+Unique,Stormeye,War Scepter,Normal Unique Scepters
 One-Hand Damage: (18-22) To (30-37) (24-29.5 Avg)
 Required Level: 30
 Required Strength: 55
@@ -6008,7 +6008,7 @@ Replenish Life +10
 --enditem--
 
 --startitem--
-Unique,Ondal's Wisdom,Elder Staff
+Unique,Ondal's Wisdom,Elder Staff,Elite Unique Staves
 Two-Hand Damage: 80 To 93 (86.5 Avg)
 Required Level: 66
 Required Strength: 44
@@ -6027,7 +6027,7 @@ Magic Damage Reduced by 5-8 (varies)
 --enditem--
 
 --startitem--
-Unique,Mang Song's Lesson,Archon Staff
+Unique,Mang Song's Lesson,Archon Staff,Elite Unique Staves
 Two-Hand Damage: 83 To 99 (91 Avg)
 Required Level: 82
 Required Strength: 34
@@ -6045,7 +6045,7 @@ Regenerate Mana 10%
 --enditem--
 
 --startitem--
-Unique,Sandstorm Trek,Scarabshell Boots
+Unique,Sandstorm Trek,Scarabshell Boots,Elite Unique Boots
 Defense: 158-178 (varies)(Base Defense 56-65)
 Required Level: 64
 Required Strength: 91
@@ -6064,7 +6064,7 @@ Repairs 1 Durability In 20 Seconds
 --enditem--
 
 --startitem--
-Unique,Marrowwalk,Boneweave Boots
+Unique,Marrowwalk,Boneweave Boots,Elite Unique Boots
 Defense: 183-204 (varies)(Base Defense: 59-67)
 Required Level: 66
 Required Strength: 118
@@ -6084,7 +6084,7 @@ Level 12 Life Tap (10 Charges)
 --enditem--
 
 --startitem--
-Unique,Shadow Dancer,Myrmidon Greaves
+Unique,Shadow Dancer,Myrmidon Greaves,Elite Unique Boots
 Defense: 122-144 (varies)(Base Defense 62-71)
 Required Level: 71
 Required Strength: 167
@@ -6101,7 +6101,7 @@ Requirements -20%
 --enditem--
 
 --startitem--
-Unique,Rainbow Facet Fire Level-Up,Jewel
+Unique,Rainbow Facet Fire Level-Up,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 29 Blaze When You Level-Up
 Adds 17-45 Fire Damage
@@ -6110,7 +6110,7 @@ Adds 17-45 Fire Damage
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Cold Level-Up,Jewel
+Unique,Rainbow Facet Cold Level-Up,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 43 Frost Nova When You Level-Up
 Adds 24-38 Cold Damage, 0.12 sec Duration (Normal)
@@ -6119,7 +6119,7 @@ Adds 24-38 Cold Damage, 0.12 sec Duration (Normal)
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Lightning Level-Up,Jewel
+Unique,Rainbow Facet Lightning Level-Up,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 41 Nova When You Level-Up
 Adds 1-74 Lightning Damage
@@ -6128,7 +6128,7 @@ Adds 1-74 Lightning Damage
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Poison Level-Up,Jewel
+Unique,Rainbow Facet Poison Level-Up,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 23 Venom When You Level-Up
 +37 Poison Damage Over 2 Seconds
@@ -6137,7 +6137,7 @@ Required Level: 49
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Fire Die,Jewel
+Unique,Rainbow Facet Fire Die,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 31 Meteor When You Die
 Adds 17-45 Fire Damage
@@ -6146,7 +6146,7 @@ Adds 17-45 Fire Damage
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Cold Die,Jewel
+Unique,Rainbow Facet Cold Die,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 37 Blizzard When You Die
 Adds 24-38 Cold Damage, 0.12 sec Duration (Normal)
@@ -6155,7 +6155,7 @@ Adds 24-38 Cold Damage, 0.12 sec Duration (Normal)
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Lightning Die,Jewel
+Unique,Rainbow Facet Lightning Die,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 47 Chain Lightning When You Die
 Adds 1-74 Lightning Damage
@@ -6164,7 +6164,7 @@ Adds 1-74 Lightning Damage
 (Only Spawns In Patch 1.10 or later)
 --enditem--
 --startitem--
-Unique,Rainbow Facet Poison Die,Jewel
+Unique,Rainbow Facet Poison Die,Jewel,Unique Jewels
 Required Level: 49
 100% Chance To Cast Level 51 Poison Nova When You Die
 +37 Poison Damage Over 2 Seconds

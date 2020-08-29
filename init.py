@@ -3,10 +3,11 @@ import sqlite3
 import sys
 
 class Item:
-    def __init__(self, type, name, classType):
+    def __init__(self, type, name, itemType, itemClassType):
         self.type = type.strip().replace("*", "")
         self.name = name.strip().replace("*", "")
-        self.classType = classType.strip().replace("*", "")
+        self.itemType = itemType.strip().replace("*", "")
+        self.itemClassType = itemClassType.split(":")[0].strip()
         self.info = ""
 
     def __str__(self):
@@ -47,7 +48,7 @@ class Rune:
 
 class Runeword:
     def __init__(self, name, numSockets, itemTypes, runes):
-        self.name = name
+        self.name = name.strip().replace("*", "")
         self.numSockets = numSockets
         self.itemTypes = itemTypes
         self.runes = runes
@@ -130,7 +131,7 @@ def parseUniques(filePath):
 
         if (isItemMeta):
             split = line.split(",")
-            currentItem = Item(split[0], split[1], split[2])
+            currentItem = Item(split[0], split[1], split[2], split[3])
             isItemMeta = False
             isItemDetail = True
     f.close()
@@ -188,7 +189,7 @@ def parseSets(filePath):
 
         if (isItemMeta):
             split = line.split(",")
-            currentItem = Item(split[0], split[1], split[2])
+            currentItem = Item(split[0], split[1], split[2], currentSet.name)
             isItemMeta = False
             isItemDetail = True
 
@@ -227,32 +228,32 @@ def main():
     c = conn.cursor()
 
     print("creating tables...")
-    c.execute('''CREATE TABLE item (id integer PRIMARY KEY, name text NOT NULL, type text NOT NULL, class text, info text)''')
+    c.execute('''CREATE TABLE item (id integer PRIMARY KEY, name text NOT NULL, type text NOT NULL, itemType text, itemClass text, info text)''')
     c.execute('''CREATE TABLE setz (id integer PRIMARY KEY, name text NOT NULL, bonus text NOT NULL)''')
     c.execute('''CREATE TABLE setitem (id integer PRIMARY KEY, setz integer NOT NULL, item integer NOT NULL, FOREIGN KEY (setz) REFERENCES setz (id) FOREIGN KEY (item) REFERENCES item (id))''')
     c.execute('''CREATE TABLE runewordrunes (id integer PRIMARY KEY, runeword integer NOT NULL, rune integer NOT NULL, runeorder integer NOT NULL, FOREIGN KEY (runeword) REFERENCES item (id) FOREIGN KEY (rune) REFERENCES item (id))''')
 
     print("populating tables...")
     for unique in uniques:
-        c.execute('''INSERT INTO item(name, type, class, info) VALUES(?,?,?,?)''', (unique.name, unique.type, unique.classType, unique.info))
+        c.execute('''INSERT INTO item(name, type, itemType, itemClass, info) VALUES(?,?,?,?,?)''', (unique.name, unique.type, unique.itemType, unique.itemClassType, unique.info))
 
     for set in sets:
         c.execute('''INSERT INTO setz(name, bonus) VALUES(?,?)''', (set.name, set.bonus))
         setId = c.execute('''SELECT id FROM setz WHERE name=?''', (set.name,)).fetchall()[0][0]
 
         for item in set.items:
-            c.execute('''INSERT INTO item(name, type, class, info) VALUES(?,?,?,?)''', (item.name, item.type, item.classType, item.info))
+            c.execute('''INSERT INTO item(name, type, itemType, itemClass, info) VALUES(?,?,?,?,?)''', (item.name, item.type, item.itemType, item.itemClassType, item.info))
             itemId = c.execute('''SELECT id FROM item WHERE name=?''', (item.name,)).fetchall()[0][0]
 
             c.execute('''INSERT INTO setitem(setz, item) VALUES(?,?)''', (setId,itemId,))
 
     for rune in runes:
         info = "Required Level: " + str(rune.level) + "\nWeapons: " + rune.weaponEffect + "\nArmors: " + rune.armorEffect + "\nShields: " + rune.shieldEffect + "\n"
-        c.execute('''INSERT INTO item(name, type, info) VALUES(?,?,?)''', (rune.name, "Rune", info))
+        c.execute('''INSERT INTO item(name, type, itemType, itemClass, info) VALUES(?,?,?,?,?)''', (rune.name, "Rune", "Rune", "Runes", info))
 
     for runeword in runewords:
-        c.execute('''INSERT INTO item(name, type, class, info) VALUES(?,?,?,?)''', (runeword.name, "Runeword", ",".join(runeword.itemTypes), runeword.effects))
-        rwId = c.execute('''SELECT id FROM item WHERE name=? and type=? and class=?''', (runeword.name, "Runeword", ",".join(runeword.itemTypes))).fetchall()[0][0]
+        c.execute('''INSERT INTO item(name, type, itemType, itemClass, info) VALUES(?,?,?,?,?)''', (runeword.name, "Runeword", ",".join(runeword.itemTypes), "Runewords", runeword.effects))
+        rwId = c.execute('''SELECT id FROM item WHERE name=? and type=? and itemType=?''', (runeword.name, "Runeword", ",".join(runeword.itemTypes))).fetchall()[0][0]
 
         runeorder = 1
         for rune in runeword.runes:
